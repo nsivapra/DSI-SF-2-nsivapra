@@ -1,0 +1,1150 @@
+﻿<!DOCTYPE html>
+
+<html class="no-js"><head>
+    <title>SF bay area apartments / housing rentals  - craigslist</title>
+
+    <meta name="description" content="SF bay area apartments / housing rentals  - craigslist">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+    <link rel="canonical" href="https://sfbay.craigslist.org/search/sfc/apa">
+    <link rel="alternate" type="application/rss+xml" href="https://sfbay.craigslist.org/search/sfc/apa?format=rss" title="RSS feed for craigslist | SF bay area apartments / housing rentals  - craigslist ">
+    
+    <link rel="next" href="https://sfbay.craigslist.org/search/sfc/apa?s=100">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/cl.css?v=68881849a61886e14d06f4f4fa563d57">
+    <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/search.css?v=af75b8cc1e45fb421a5858821aadf330">
+    <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/jquery-ui-clcustom.css?v=31607a98a2cb3fba2c70e3e66ecb4440">
+    <link rel="prefetch" href="//www.craigslist.org/js/postings-concat.min.js?v=fa24a444d1d09fbf00612e8074ca2b50">
+    <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/leaflet.css?v=52966d0fad2afe8dd918e5f48abb0db3">
+<link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/MarkerCluster.css?v=c9937ed03fbb57f185493cd8c283efeb">
+<link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/tocsmaps.css?v=e1c93c9e4b8d31fc183c0dff0c70e0b7">
+<!--[if IE]>
+    <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/tocsmaps-ie.css?v=b21742b2ebe243963373e956ea115db0">
+<![endif]-->
+    
+        <script type="text/javascript"><!--
+var areaCountry = "US";
+var areaID = "1";
+var areaRegion = "CA";
+var catAbb = "apa";
+var countOfTotalText = "image {count} of {total}";
+var currencySymbol = "&#x0024;";
+var defaultView = "grid";
+var expiredFavIDs = null;
+var imageHost = "http://images.craigslist.org";
+var lessInfoText = "less info";
+var maptileBaseUrl = "//map{s}.craigslist.org/t09/{z}/{x}/{y}.png";
+var maxResults = 2500;
+var noImageText = "no image";
+var pID = null;
+var purveyorCategories = null;
+var sectionAbb = "hhh";
+var sectionBase = "hhh";
+var showInfoText = "show info";
+var showMapTabs = 1;
+var showingBanished = 0;
+var showingFavorites = 0;
+var starHint = "save this post in your favorites list";
+var subarea = "sfc";
+var zoomToPosting = null;
+--></script>
+    
+    <!--[if lt IE 9]>
+<script src="//www.craigslist.org/js/html5shiv.min.js?v=096822b653643ed1af3136947e4ea79a" type="text/javascript" ></script>
+
+<script src="//www.craigslist.org/js/respond-fork.min.js?v=d7e1cb0d97ee0c0c9d84a7d4f1d03469" type="text/javascript" ></script>
+
+<![endif]-->
+<!--[if lte IE 7]>
+<script src="//www.craigslist.org/js/json2.min.js?v=178d4ad319e0e0b4a451b15e49b71bec" type="text/javascript" ></script>
+
+<![endif]-->
+</head>
+<body class="search en">
+    <script type="text/javascript"><!--
+    function C(k){return(document.cookie.match('(^|; )'+k+'=([^;]*)')||0)[2]}
+    var pagetype, pagemode;
+    (function(){
+        var h = document.documentElement;
+        h.className = h.className.replace('no-js', 'js');
+        var b = document.body;
+        var bodyClassList = b.className.split(/\s+/);;
+        pagetype = bodyClassList[0]; // dangerous assumption
+        var fmt = C('cl_fmt');
+        if ( fmt === 'regular' || fmt === 'mobile' ) {
+            pagemode = fmt;
+        } else if (screen.width <= 480) {
+            pagemode = 'mobile';
+        } else {
+            pagemode = 'regular';
+        }
+        pagemode = pagemode === 'mobile' ? 'mobile' : 'desktop';
+        bodyClassList.push(pagemode);
+        if (C('hidesearch') === '1' && pagemode !== 'mobile') {
+            bodyClassList.push('hide-search');
+        }
+        var width = window.innerWidth || document.documentElement.clientWidth;
+        if (width > 1000) { bodyClassList.push('w1024'); }
+        if (typeof window.sectionBase !== 'undefined') {
+            var mode = (decodeURIComponent(C('cl_tocmode') || '').match(new RegExp(window.sectionBase + ':([^,]+)', 'i')) || {})[1] || window.defaultView;
+            if (mode) {
+                bodyClassList.push(mode);
+            }
+        }
+        b.className = bodyClassList.join(' ');
+    }());
+--></script>
+
+
+    <section id="pagecontainer">
+        <div class="bglogo"></div>
+        <header class="global-header">
+   <a class="header-logo" href="/">CL</a>
+
+    <nav class="breadcrumbs-container">
+<form id="breadcrumbform" method="get" action="/search/sfc/apa" data-action="/search/###/apa">
+    
+    <ul class="breadcrumbs hasSubareas">
+        <li class="crumb area">
+            
+            <span class="no-js">
+                <a href="/">SF bay area</a>
+            </span>
+                <select name="areaAbb" id="areaAbb" class="js-only">
+                    <option value="sfbay">SF bay area</option>
+                        <option value="bakersfield">bakersfield</option>
+                        <option value="chico">chico</option>
+                        <option value="fresno">fresno</option>
+                        <option value="goldcountry">gold country</option>
+                        <option value="hanford">hanford</option>
+                        <option value="mendocino">mendocino co</option>
+                        <option value="merced">merced</option>
+                        <option value="modesto">modesto</option>
+                        <option value="monterey">monterey</option>
+                        <option value="redding">redding</option>
+                        <option value="reno">reno</option>
+                        <option value="sacramento">sacramento</option>
+                        <option value="slo">san luis obispo</option>
+                        <option value="santamaria">santa maria</option>
+                        <option value="stockton">stockton</option>
+                        <option value="susanville">susanville</option>
+                        <option value="visalia">visalia-tulare</option>
+                        <option value="yubasutter">yuba-sutter</option>
+                </select>
+            <span class="breadcrumb-arrow">&gt;</span>
+        </li>
+        <li class="crumb subarea">
+                <select id="subArea" name="subArea">
+                    <option value="">all SF bay area</option>
+                    <option value="eby">east bay</option>
+                    <option value="nby">north bay</option>
+                    <option value="pen">peninsula</option>
+                    <option value="sfc" selected>san francisco</option>
+                    <option value="scz">santa cruz</option>
+                    <option value="sby">south bay</option>
+                </select>
+            <span class="breadcrumb-arrow">&gt;</span>
+        </li>
+        <li class="crumb section">
+                    <select name="catAbb" id="catAbb">
+                        <option value="ccc">community</option>
+                        <option value="eee">events</option>
+                        <option value="sss">for sale</option>
+                        <option value="ggg">gigs</option>
+                        <option value="hhh" selected>housing</option>
+                        <option value="jjj">jobs</option>
+                        <option value="ppp">personals</option>
+                        <option value="rrr">resumes</option>
+                        <option value="bbb">services</option>
+                    </select>
+                <span class="breadcrumb-arrow">&gt;</span>
+        </li>
+        <li class="crumb category">
+            <select id="subcatAbb" class="js-only">
+                <option value="hhh">all</option>
+                    <option value="hou">apts wanted</option>
+                    <option value="apa" selected>apts/housing for rent</option>
+                    <option value="swp">housing swap</option>
+                    <option value="off">office &amp; commercial</option>
+                    <option value="prk">parking &amp; storage</option>
+                    <option value="reb">real estate - by broker</option>
+                    <option value="reo">real estate - by owner</option>
+                    <option value="rew">real estate wanted</option>
+                    <option value="roo">rooms &amp; shares</option>
+                    <option value="sha">rooms wanted</option>
+                    <option value="sbw">sublet/temp wanted</option>
+                    <option value="sub">sublets &amp; temporary</option>
+                    <option value="vac">vacation rentals</option>
+            </select><span class="no-js">apts/housing for rent</span>
+            <span class="breadcrumb-arrow">&gt;</span>
+        </li>
+        <li class="crumb no-js">
+            <input type="submit" value="go">
+        </li>
+    </ul>
+</form>
+    </nav>
+
+<div class="userlinks">
+    <ul class="user-actions">
+        <li class="user post">
+            <a href="https://post.craigslist.org/c/sfo">post</a>
+        </li>
+        <li class="user account">
+            <a href="https://accounts.craigslist.org/login/home">account</a>
+        </li>
+    </ul>
+    <ul class="user-favs-discards">
+        <li class="user">
+            <div class="favorites">
+                <a href="#" class="favlink"><span class="icon icon-star fav" aria-hidden="true"></span><span class="fav-number">0</span><span class="fav-label"> favorites</span></a>
+            </div>
+        </li>
+        <li class="user discards">
+          <form class="unfavform js-only" method="POST" action="/favorites">
+            <div class="to-banish-page">
+              <input type="hidden" class="lastLink" name="lastLink" value="//sfbay.craigslist.org/search/sfc/apa">
+              <input type="hidden" class="lastTitle" name="lastTitle" value="SF bay area apartments / housing rentals  - craigslist">
+              <input type="hidden" class="unfaves" name="fl">
+              <input type="hidden" name="uf" value="1">
+              <a href="#" class="to-banish-page-link">
+                <span class="icon icon-trash red" aria-hidden="true"></span>
+                <span class="banished_count">0</span>
+                <span class="discards-label"> hidden</span>
+              </a>
+            </div>
+          </form>
+        </li>
+    </ul>
+</div>
+</header>
+
+
+        <form id="searchform" class="search-form" action="/search/sfc/apa"  >
+           
+            <div class="querybox">
+                
+                <div class="form-tab js-only"><span class="search-open" title="hide search">&laquo;</span><span class="search-closed" title="show search">&raquo;</span></div>
+                
+                <input type="text" placeholder="search apartments / housing rentals" name="query"
+                    id="query" value="" autocorrect="off"
+                    autocapitalize="off" autocomplete="off" data-autocomplete="search" 
+                    class="flatinput ui-autocomplete-input">
+
+                <button type="submit" class="searchbtn">
+                    <span class="icon icon-search" aria-hidden="true"></span>
+                    <span class="screen-reader-text">press to search craigslist</span>
+                </button>
+                <div class="savealert">
+                            <a class="saveme" data-action="save"  href="https://accounts.craigslist.org/login?rt=L&rp=%2Fsavesearch%2Fsave%3FURL%3Dhttps%253A%252F%252Fsfbay%252Ecraigslist%252Eorg%252Fsearch%252Fsfc%252Fapa"  title="save this search" >save search</a>
+                        </div>
+            </div>
+
+            <div class="search-options-container">
+    <h2 class="search-options-header linklike">
+        <div class="icon icon-toggle-gear" aria-hidden="true"></div>
+        options<span class="options-close">close</span>
+    </h2>
+    <input id="excats" type="hidden" name="excats">
+    
+    <div class="search-options">
+        <div class="searchgroup categories">
+            <div class="cattitle">
+              <a href="/search/sfc/apa" title="clear all search parameters" class="reset">apartments / housing rentals></a>
+            </div>
+            
+        </div>
+
+        
+
+        
+
+        
+
+        
+
+        <div class="searchgroup">
+            <ul><li><label class="srchType"><input type="checkbox" name="srchType" class="autosubmit" value="T" >search titles only</label></li><li><label class="hasPic"><input type="checkbox" name="hasPic" class="autosubmit" value="1" >has image</label></li><li><label class="postedToday"><input type="checkbox" name="postedToday" class="autosubmit" value="1" >posted today</label></li></ul>
+
+            <ul class="js-only nearbyAreas ">
+                
+            </ul>
+
+        </div>
+
+        <div class="searchgroup">
+        <span class="searchfieldlabel">miles from zip</span>
+        <input type="number" max="200" min="0" size="3" inputmode="numeric"
+            class="flatinput searchInput search_distance" placeholder="miles"
+            name="search_distance" value="">
+        <input type="text" class="flatinput searchInput postal" placeholder="from zip"
+                size="7" name="postal" value="">
+    </div>
+
+        <div class="searchgroup">      <div id="headerattr_nh" class="catfilter attr_picker multilink "
+            data-checked-count="0" data-attr="nh">
+        <span id="plusminus_nh" class="plusminus">+</span>neighborhoods
+      </div>
+<ul id="ul_nh" class="attr_list hideme">           <li class="attr_nh ">
+             <label data-attr="nh">
+               <input id="alamo_square_/_nopa_149" name="nh"
+                      class="multi_checkbox multi_nh" data-attr="nh"
+                      
+                      value="149" type="checkbox">
+               alamo square / nopa
+             </label>
+           </li>
+           <li class="attr_nh ">
+             <label data-attr="nh">
+               <input id="bayview_110" name="nh"
+                      class="multi_checkbox multi_nh" data-attr="nh"
+                      
+                      value="110" type="checkbox">
+               bayview
+             </label>
+           </li>
+           <li class="attr_nh ">
+             <label data-attr="nh">
+               <input id="bernal_heights_3" name="nh"
+                      class="multi_checkbox multi_nh" data-attr="nh"
+                      
+                      value="3" type="checkbox">
+               bernal heights
+             </label>
+           </li>
+           <li class="attr_nh ">
+             <label data-attr="nh">
+               <input id="castro_/_upper_market_4" name="nh"
+                      class="multi_checkbox multi_nh" data-attr="nh"
+                      
+                      value="4" type="checkbox">
+               castro / upper market
+             </label>
+           </li>
+           <li class="attr_nh ">
+             <label data-attr="nh">
+               <input id="cole_valley_/_ashbury_hts_5" name="nh"
+                      class="multi_checkbox multi_nh" data-attr="nh"
+                      
+                      value="5" type="checkbox">
+               cole valley / ashbury hts
+             </label>
+           </li>
+           <li class="attr_nh ">
+             <label data-attr="nh">
+               <input id="downtown_/_civic_/_van_ness_6" name="nh"
+                      class="multi_checkbox multi_nh" data-attr="nh"
+                      
+                      value="6" type="checkbox">
+               downtown / civic / van ness
+             </label>
+           </li>
+           <li class="attr_nh ">
+             <label data-attr="nh">
+               <input id="excelsior_/_outer_mission_7" name="nh"
+                      class="multi_checkbox multi_nh" data-attr="nh"
+                      
+                      value="7" type="checkbox">
+               excelsior / outer mission
+             </label>
+           </li>
+           <li class="attr_nh ">
+             <label data-attr="nh">
+               <input id="financial_district_8" name="nh"
+                      class="multi_checkbox multi_nh" data-attr="nh"
+                      
+                      value="8" type="checkbox">
+               financial district
+             </label>
+           </li>
+           <li class="attr_nh ">
+             <label data-attr="nh">
+               <input id="glen_park_9" name="nh"
+                      class="multi_checkbox multi_nh" data-attr="nh"
+                      
+                      value="9" type="checkbox">
+               glen park
+             </label>
+           </li>
+           <li class="attr_nh ">
+             <label data-attr="nh">
+               <input id="haight_ashbury_11" name="nh"
+                      class="multi_checkbox multi_nh" data-attr="nh"
+                      
+                      value="11" type="checkbox">
+               haight ashbury
+             </label>
+           </li>
+           <li class="attr_nh ">
+             <label data-attr="nh">
+               <input id="hayes_valley_12" name="nh"
+                      class="multi_checkbox multi_nh" data-attr="nh"
+                      
+                      value="12" type="checkbox">
+               hayes valley
+             </label>
+           </li>
+           <li class="attr_nh ">
+             <label data-attr="nh">
+               <input id="ingleside_/_SFSU_/_CCSF_13" name="nh"
+                      class="multi_checkbox multi_nh" data-attr="nh"
+                      
+                      value="13" type="checkbox">
+               ingleside / SFSU / CCSF
+             </label>
+           </li>
+           <li class="attr_nh ">
+             <label data-attr="nh">
+               <input id="inner_richmond_14" name="nh"
+                      class="multi_checkbox multi_nh" data-attr="nh"
+                      
+                      value="14" type="checkbox">
+               inner richmond
+             </label>
+           </li>
+           <li class="attr_nh ">
+             <label data-attr="nh">
+               <input id="inner_sunset_/_UCSF_15" name="nh"
+                      class="multi_checkbox multi_nh" data-attr="nh"
+                      
+                      value="15" type="checkbox">
+               inner sunset / UCSF
+             </label>
+           </li>
+           <li class="attr_nh ">
+             <label data-attr="nh">
+               <input id="laurel_hts_/_presidio_16" name="nh"
+                      class="multi_checkbox multi_nh" data-attr="nh"
+                      
+                      value="16" type="checkbox">
+               laurel hts / presidio
+             </label>
+           </li>
+           <li class="attr_nh ">
+             <label data-attr="nh">
+               <input id="lower_haight_10" name="nh"
+                      class="multi_checkbox multi_nh" data-attr="nh"
+                      
+                      value="10" type="checkbox">
+               lower haight
+             </label>
+           </li>
+           <li class="attr_nh ">
+             <label data-attr="nh">
+               <input id="lower_nob_hill_20" name="nh"
+                      class="multi_checkbox multi_nh" data-attr="nh"
+                      
+                      value="20" type="checkbox">
+               lower nob hill
+             </label>
+           </li>
+           <li class="attr_nh ">
+             <label data-attr="nh">
+               <input id="lower_pac_hts_24" name="nh"
+                      class="multi_checkbox multi_nh" data-attr="nh"
+                      
+                      value="24" type="checkbox">
+               lower pac hts
+             </label>
+           </li>
+           <li class="attr_nh ">
+             <label data-attr="nh">
+               <input id="marina_/_cow_hollow_17" name="nh"
+                      class="multi_checkbox multi_nh" data-attr="nh"
+                      
+                      value="17" type="checkbox">
+               marina / cow hollow
+             </label>
+           </li>
+           <li class="attr_nh ">
+             <label data-attr="nh">
+               <input id="mission_district_18" name="nh"
+                      class="multi_checkbox multi_nh" data-attr="nh"
+                      
+                      value="18" type="checkbox">
+               mission district
+             </label>
+           </li>
+           <li class="attr_nh ">
+             <label data-attr="nh">
+               <input id="nob_hill_19" name="nh"
+                      class="multi_checkbox multi_nh" data-attr="nh"
+                      
+                      value="19" type="checkbox">
+               nob hill
+             </label>
+           </li>
+           <li class="attr_nh ">
+             <label data-attr="nh">
+               <input id="noe_valley_21" name="nh"
+                      class="multi_checkbox multi_nh" data-attr="nh"
+                      
+                      value="21" type="checkbox">
+               noe valley
+             </label>
+           </li>
+           <li class="attr_nh ">
+             <label data-attr="nh">
+               <input id="north_beach_/_telegraph_hill_22" name="nh"
+                      class="multi_checkbox multi_nh" data-attr="nh"
+                      
+                      value="22" type="checkbox">
+               north beach / telegraph hill
+             </label>
+           </li>
+           <li class="attr_nh ">
+             <label data-attr="nh">
+               <input id="pacific_heights_23" name="nh"
+                      class="multi_checkbox multi_nh" data-attr="nh"
+                      
+                      value="23" type="checkbox">
+               pacific heights
+             </label>
+           </li>
+           <li class="attr_nh ">
+             <label data-attr="nh">
+               <input id="portola_district_164" name="nh"
+                      class="multi_checkbox multi_nh" data-attr="nh"
+                      
+                      value="164" type="checkbox">
+               portola district
+             </label>
+           </li>
+           <li class="attr_nh ">
+             <label data-attr="nh">
+               <input id="potrero_hill_25" name="nh"
+                      class="multi_checkbox multi_nh" data-attr="nh"
+                      
+                      value="25" type="checkbox">
+               potrero hill
+             </label>
+           </li>
+           <li class="attr_nh ">
+             <label data-attr="nh">
+               <input id="richmond_/_seacliff_26" name="nh"
+                      class="multi_checkbox multi_nh" data-attr="nh"
+                      
+                      value="26" type="checkbox">
+               richmond / seacliff
+             </label>
+           </li>
+           <li class="attr_nh ">
+             <label data-attr="nh">
+               <input id="russian_hill_27" name="nh"
+                      class="multi_checkbox multi_nh" data-attr="nh"
+                      
+                      value="27" type="checkbox">
+               russian hill
+             </label>
+           </li>
+           <li class="attr_nh ">
+             <label data-attr="nh">
+               <input id="SOMA_/_south_beach_1" name="nh"
+                      class="multi_checkbox multi_nh" data-attr="nh"
+                      
+                      value="1" type="checkbox">
+               SOMA / south beach
+             </label>
+           </li>
+           <li class="attr_nh ">
+             <label data-attr="nh">
+               <input id="sunset_/_parkside_28" name="nh"
+                      class="multi_checkbox multi_nh" data-attr="nh"
+                      
+                      value="28" type="checkbox">
+               sunset / parkside
+             </label>
+           </li>
+           <li class="attr_nh ">
+             <label data-attr="nh">
+               <input id="tenderloin_156" name="nh"
+                      class="multi_checkbox multi_nh" data-attr="nh"
+                      
+                      value="156" type="checkbox">
+               tenderloin
+             </label>
+           </li>
+           <li class="attr_nh ">
+             <label data-attr="nh">
+               <input id="treasure_island_157" name="nh"
+                      class="multi_checkbox multi_nh" data-attr="nh"
+                      
+                      value="157" type="checkbox">
+               treasure island
+             </label>
+           </li>
+           <li class="attr_nh ">
+             <label data-attr="nh">
+               <input id="twin_peaks_/_diamond_hts_29" name="nh"
+                      class="multi_checkbox multi_nh" data-attr="nh"
+                      
+                      value="29" type="checkbox">
+               twin peaks / diamond hts
+             </label>
+           </li>
+           <li class="attr_nh ">
+             <label data-attr="nh">
+               <input id="USF_/_panhandle_2" name="nh"
+                      class="multi_checkbox multi_nh" data-attr="nh"
+                      
+                      value="2" type="checkbox">
+               USF / panhandle
+             </label>
+           </li>
+           <li class="attr_nh ">
+             <label data-attr="nh">
+               <input id="visitacion_valley_118" name="nh"
+                      class="multi_checkbox multi_nh" data-attr="nh"
+                      
+                      value="118" type="checkbox">
+               visitacion valley
+             </label>
+           </li>
+           <li class="attr_nh ">
+             <label data-attr="nh">
+               <input id="west_portal_/_forest_hill_114" name="nh"
+                      class="multi_checkbox multi_nh" data-attr="nh"
+                      
+                      value="114" type="checkbox">
+               west portal / forest hill
+             </label>
+           </li>
+           <li class="attr_nh ">
+             <label data-attr="nh">
+               <input id="western_addition_30" name="nh"
+                      class="multi_checkbox multi_nh" data-attr="nh"
+                      
+                      value="30" type="checkbox">
+               western addition
+             </label>
+           </li>
+<li class="selectall js-only attr_nh "><label><input type="checkbox" data-attr="nh" class="selectallcb multi_checkbox" > <span class="all select_all_nh">select all</span><span class="none deselect_all_nh">deselect all</span></label></li></ul></div>
+
+        
+
+        <div class="searchgroup minmax ">
+  <span class="searchfieldlabel">price</span> <input type="tel" name="min_price" class="flatinput min" placeholder="min" title="whole number, no letters or symbols" value=""> <input type="tel" name="max_price" class="flatinput max" placeholder="max" title="whole number, no letters or symbols" value="">
+</div>
+<div class="searchgroup bed-bath-selects">
+  <select name="bedrooms" class="autosubmit">
+    <option value="">all bedrooms</option>
+    <option value="1">1+ bedrooms</option>
+<option value="2">2+ bedrooms</option>
+<option value="3">3+ bedrooms</option>
+<option value="4">4+ bedrooms</option>
+<option value="5">5+ bedrooms</option>
+<option value="6">6+ bedrooms</option>
+<option value="7">7+ bedrooms</option>
+<option value="8">8+ bedrooms</option>
+
+  </select>
+  <select name="bathrooms" class="autosubmit">
+    <option value="">all bathrooms</option>
+    <option value="1">1+ bathrooms</option>
+<option value="2">2+ bathrooms</option>
+<option value="3">3+ bathrooms</option>
+<option value="4">4+ bathrooms</option>
+<option value="5">5+ bathrooms</option>
+<option value="6">6+ bathrooms</option>
+<option value="7">7+ bathrooms</option>
+<option value="8">8+ bathrooms</option>
+
+  </select>
+</div><div class="searchgroup minmax ">
+  <span class="searchfieldlabel">ft<sup>2</sup></span> <input type="tel" name="minSqft" class="flatinput min" placeholder="min" title="whole number, no letters or symbols" value=""> <input type="tel" name="maxSqft" class="flatinput max" placeholder="max" title="whole number, no letters or symbols" value="">
+</div>
+
+<div class="searchgroup">
+ <span class="searchfieldlabel">availability</span>
+ <select class="autosubmit" name="availabilityMode">
+ <option value=""  selected>all dates</option><option value="1" >within 30 days</option><option value="2" >beyond 30 days</option>
+ </select>
+</div>
+
+        <div class="searchgroup"><label class="pets_cat"><input type="checkbox" name="pets_cat" value="1"  class="autosubmit">cats ok</label><br><label class="pets_dog"><input type="checkbox" name="pets_dog" value="1"  class="autosubmit">dogs ok</label><br><label class="is_furnished"><input type="checkbox" name="is_furnished" value="1"  class="autosubmit">furnished</label><br><label class="no_smoking"><input type="checkbox" name="no_smoking" value="1"  class="autosubmit">no smoking</label><br><label class="wheelchaccess"><input type="checkbox" name="wheelchaccess" value="1"  class="autosubmit">wheelchair access</label><br></div><div class="searchgroup">      <div id="headerattr_housing_type" class="catfilter attr_picker multilink "
+            data-checked-count="0" data-attr="housing_type">
+        <span id="plusminus_housing_type" class="plusminus">+</span>housing type
+      </div>
+<ul id="ul_housing_type" class="attr_list hideme">           <li class="attr_housing_type ">
+             <label data-attr="housing_type">
+               <input id="apartment_1" name="housing_type"
+                      class="multi_checkbox multi_housing_type" data-attr="housing_type"
+                      
+                      value="1" type="checkbox">
+               apartment
+             </label>
+           </li>
+           <li class="attr_housing_type ">
+             <label data-attr="housing_type">
+               <input id="condo_2" name="housing_type"
+                      class="multi_checkbox multi_housing_type" data-attr="housing_type"
+                      
+                      value="2" type="checkbox">
+               condo
+             </label>
+           </li>
+           <li class="attr_housing_type ">
+             <label data-attr="housing_type">
+               <input id="cottage/cabin_3" name="housing_type"
+                      class="multi_checkbox multi_housing_type" data-attr="housing_type"
+                      
+                      value="3" type="checkbox">
+               cottage/cabin
+             </label>
+           </li>
+           <li class="attr_housing_type ">
+             <label data-attr="housing_type">
+               <input id="duplex_4" name="housing_type"
+                      class="multi_checkbox multi_housing_type" data-attr="housing_type"
+                      
+                      value="4" type="checkbox">
+               duplex
+             </label>
+           </li>
+           <li class="attr_housing_type ">
+             <label data-attr="housing_type">
+               <input id="flat_5" name="housing_type"
+                      class="multi_checkbox multi_housing_type" data-attr="housing_type"
+                      
+                      value="5" type="checkbox">
+               flat
+             </label>
+           </li>
+           <li class="attr_housing_type ">
+             <label data-attr="housing_type">
+               <input id="house_6" name="housing_type"
+                      class="multi_checkbox multi_housing_type" data-attr="housing_type"
+                      
+                      value="6" type="checkbox">
+               house
+             </label>
+           </li>
+           <li class="attr_housing_type ">
+             <label data-attr="housing_type">
+               <input id="in-law_7" name="housing_type"
+                      class="multi_checkbox multi_housing_type" data-attr="housing_type"
+                      
+                      value="7" type="checkbox">
+               in-law
+             </label>
+           </li>
+           <li class="attr_housing_type ">
+             <label data-attr="housing_type">
+               <input id="loft_8" name="housing_type"
+                      class="multi_checkbox multi_housing_type" data-attr="housing_type"
+                      
+                      value="8" type="checkbox">
+               loft
+             </label>
+           </li>
+           <li class="attr_housing_type ">
+             <label data-attr="housing_type">
+               <input id="townhouse_9" name="housing_type"
+                      class="multi_checkbox multi_housing_type" data-attr="housing_type"
+                      
+                      value="9" type="checkbox">
+               townhouse
+             </label>
+           </li>
+           <li class="attr_housing_type ">
+             <label data-attr="housing_type">
+               <input id="manufactured_10" name="housing_type"
+                      class="multi_checkbox multi_housing_type" data-attr="housing_type"
+                      
+                      value="10" type="checkbox">
+               manufactured
+             </label>
+           </li>
+           <li class="attr_housing_type ">
+             <label data-attr="housing_type">
+               <input id="assisted_living_11" name="housing_type"
+                      class="multi_checkbox multi_housing_type" data-attr="housing_type"
+                      
+                      value="11" type="checkbox">
+               assisted living
+             </label>
+           </li>
+           <li class="attr_housing_type ">
+             <label data-attr="housing_type">
+               <input id="land_12" name="housing_type"
+                      class="multi_checkbox multi_housing_type" data-attr="housing_type"
+                      
+                      value="12" type="checkbox">
+               land
+             </label>
+           </li>
+<li class="selectall js-only attr_housing_type "><label><input type="checkbox" data-attr="housing_type" class="selectallcb multi_checkbox" > <span class="all select_all_housing_type">select all</span><span class="none deselect_all_housing_type">deselect all</span></label></li></ul>      <div id="headerattr_laundry" class="catfilter attr_picker multilink "
+            data-checked-count="0" data-attr="laundry">
+        <span id="plusminus_laundry" class="plusminus">+</span>laundry
+      </div>
+<ul id="ul_laundry" class="attr_list hideme">           <li class="attr_laundry ">
+             <label data-attr="laundry">
+               <input id="w/d_in_unit_1" name="laundry"
+                      class="multi_checkbox multi_laundry" data-attr="laundry"
+                      
+                      value="1" type="checkbox">
+               w/d in unit
+             </label>
+           </li>
+           <li class="attr_laundry ">
+             <label data-attr="laundry">
+               <input id="w/d_hookups_4" name="laundry"
+                      class="multi_checkbox multi_laundry" data-attr="laundry"
+                      
+                      value="4" type="checkbox">
+               w/d hookups
+             </label>
+           </li>
+           <li class="attr_laundry ">
+             <label data-attr="laundry">
+               <input id="laundry_in_bldg_2" name="laundry"
+                      class="multi_checkbox multi_laundry" data-attr="laundry"
+                      
+                      value="2" type="checkbox">
+               laundry in bldg
+             </label>
+           </li>
+           <li class="attr_laundry ">
+             <label data-attr="laundry">
+               <input id="laundry_on_site_3" name="laundry"
+                      class="multi_checkbox multi_laundry" data-attr="laundry"
+                      
+                      value="3" type="checkbox">
+               laundry on site
+             </label>
+           </li>
+           <li class="attr_laundry ">
+             <label data-attr="laundry">
+               <input id="no_laundry_on_site_5" name="laundry"
+                      class="multi_checkbox multi_laundry" data-attr="laundry"
+                      
+                      value="5" type="checkbox">
+               no laundry on site
+             </label>
+           </li>
+</ul>      <div id="headerattr_parking" class="catfilter attr_picker multilink "
+            data-checked-count="0" data-attr="parking">
+        <span id="plusminus_parking" class="plusminus">+</span>parking
+      </div>
+<ul id="ul_parking" class="attr_list hideme">           <li class="attr_parking ">
+             <label data-attr="parking">
+               <input id="carport_1" name="parking"
+                      class="multi_checkbox multi_parking" data-attr="parking"
+                      
+                      value="1" type="checkbox">
+               carport
+             </label>
+           </li>
+           <li class="attr_parking ">
+             <label data-attr="parking">
+               <input id="attached_garage_2" name="parking"
+                      class="multi_checkbox multi_parking" data-attr="parking"
+                      
+                      value="2" type="checkbox">
+               attached garage
+             </label>
+           </li>
+           <li class="attr_parking ">
+             <label data-attr="parking">
+               <input id="detached_garage_3" name="parking"
+                      class="multi_checkbox multi_parking" data-attr="parking"
+                      
+                      value="3" type="checkbox">
+               detached garage
+             </label>
+           </li>
+           <li class="attr_parking ">
+             <label data-attr="parking">
+               <input id="off-street_parking_4" name="parking"
+                      class="multi_checkbox multi_parking" data-attr="parking"
+                      
+                      value="4" type="checkbox">
+               off-street parking
+             </label>
+           </li>
+           <li class="attr_parking ">
+             <label data-attr="parking">
+               <input id="street_parking_5" name="parking"
+                      class="multi_checkbox multi_parking" data-attr="parking"
+                      
+                      value="5" type="checkbox">
+               street parking
+             </label>
+           </li>
+           <li class="attr_parking ">
+             <label data-attr="parking">
+               <input id="valet_parking_6" name="parking"
+                      class="multi_checkbox multi_parking" data-attr="parking"
+                      
+                      value="6" type="checkbox">
+               valet parking
+             </label>
+           </li>
+           <li class="attr_parking ">
+             <label data-attr="parking">
+               <input id="no_parking_7" name="parking"
+                      class="multi_checkbox multi_parking" data-attr="parking"
+                      
+                      value="7" type="checkbox">
+               no parking
+             </label>
+           </li>
+<li class="selectall js-only attr_parking "><label><input type="checkbox" data-attr="parking" class="selectallcb multi_checkbox" > <span class="all select_all_parking">select all</span><span class="none deselect_all_parking">deselect all</span></label></li></ul></div>
+
+        <div class="searchgroup">
+  <div class="label">open house date</div> 
+  <select class="autosubmit" id="sale_date" name="sale_date">
+     <option></option>
+     <option value="2016-08-18">aug 18 - today</option><option value="2016-08-19">aug 19 - tomorrow</option><option value="2016-08-20">aug 20 - saturday</option><option value="2016-08-21">aug 21 - sunday</option><option value="2016-08-22">aug 22 - monday</option><option value="2016-08-23">aug 23 - tuesday</option><option value="2016-08-24">aug 24 - wednesday</option><option value="2016-08-25">aug 25 - thursday</option><option value="2016-08-26">aug 26 - friday</option><option value="2016-08-27">aug 27 - saturday</option><option value="2016-08-28">aug 28 - sunday</option><option value="2016-08-29">aug 29 - monday</option><option value="2016-08-30">aug 30 - tuesday</option><option value="2016-08-31">aug 31 - wednesday</option><option value="2016-09-01">sep 1 - thursday</option><option value="2016-09-02">sep 2 - friday</option><option value="2016-09-03">sep 3 - saturday</option><option value="2016-09-04">sep 4 - sunday</option><option value="2016-09-05">sep 5 - monday</option><option value="2016-09-06">sep 6 - tuesday</option><option value="2016-09-07">sep 7 - wednesday</option><option value="2016-09-08">sep 8 - thursday</option><option value="2016-09-09">sep 9 - friday</option><option value="2016-09-10">sep 10 - saturday</option><option value="2016-09-11">sep 11 - sunday</option><option value="2016-09-12">sep 12 - monday</option><option value="2016-09-13">sep 13 - tuesday</option><option value="2016-09-14">sep 14 - wednesday</option>
+  </select>
+</div>
+
+        <div class="searchgroup resetsearch">
+            <a href="/search/sfc/apa" title="clear all search parameters" class="reset linklike">reset</a>
+            <button type="submit" class="searchlink linklike">update search</button>
+        </div>
+
+        
+    </div>
+</div>
+
+            <div class="search-legend">
+                <div class="search-view js-only">
+    <div class="dropdown dropdown-icons dropdown-arrows" role="toolbar" aria-label="view options" aria-expanded="false">
+        <ul class="dropdown-list">
+            <li class="dropdown-item mode sel">
+                <button title="show results in a list" data-view="list" id="listview">
+                    <span class="view-list icon"></span>list
+                </button>
+                <span class="toggle-arrow"></span>
+            </li>
+            <li class="dropdown-item mode">
+                <button title="show results in a list with thumbnail pictures"  data-view="pic"  id="picview" >
+                    <span class="view-thumb icon"></span>thumb
+                </button>
+                <span class="toggle-arrow"></span>
+            </li>
+            <li class="dropdown-item mode">
+                <button title="show results side-by-side with larger pictures" data-view="grid" id="gridview">
+                    <span class="view-gallery icon"></span>gallery
+                </button>
+                <span class="toggle-arrow"></span>
+            </li>
+                <li class="dropdown-item mode">
+                    <button title="show results on a map"  data-view="map"  id="mapview" >
+                        <span class="view-map icon"></span>map
+                    </button>
+                    <span class="toggle-arrow"></span>
+                </li>
+        </ul>
+    </div>
+</div>
+<div class="search-sort">
+    <div class="dropdown dropdown-arrows" role="toolbar" aria-label="sort options" aria-expanded="false">
+        <ul class="dropdown-list">
+
+            <li class="dropdown-item mode " aria-selected="false">
+                <a title="show upcoming open houses" href="/search/sfc/apa?sort=upcoming">upcoming <span class="toggle-arrow"></span></a>
+            </li>
+            <li class="dropdown-item mode sel" aria-selected="false">
+                <a title="show newest matches first" href="/search/sfc/apa?sort=date">newest <span class="toggle-arrow"></span></a>
+            </li>
+            <li class="dropdown-item mode " aria-selected="false">
+                <a title="sort by price, lowest to highest" href="/search/sfc/apa?sort=priceasc">price &uarr; <span class="toggle-arrow"></span></a>
+            </li>
+            <li class="dropdown-item mode " aria-selected="false">
+                <a title="sort by price, highest to lowest" href="/search/sfc/apa?sort=pricedsc">price &darr; <span class="toggle-arrow"></span></a>
+            </li>
+
+        </ul>
+    </div>
+</div>
+<div class="paginator buttongroup  firstpage"><span class="resulttotal"><span class="for-map">displaying <span class="displaycountShow">...</span> postings</span></span><span class="buttons"><a href="/search/sfc/apa" class="button first" title="first page">&lt;&lt;</a><span class="button first" title="first page">&lt;&lt;</span><a href="/search/sfc/apa" class="button prev" title="previous page">&lt; prev</a><span class="button prev" title="previous page">&lt; prev</span><span class="button pagenum"><span class="range"><span class="rangeFrom">1</span> to <span class="rangeTo">100</span></span> of <span class="totalcount">2500</span></span><a href="/search/sfc/apa?s=100" class="button next" title="next page"> next &gt; </a><span class="button next" title="next page"> next &gt; </span></span></div>
+                
+            </div>
+            
+            <div class="content" id="sortable-results" >
+                <section class="favlistsection">
+                    <section class="favlistinfo">
+                        
+                        
+                    </section>
+                    <section class="banishlistinfo">
+                    </section>
+                </section>
+
+                
+
+                
+
+                <div class="rows">
+                    
+                    
+                    <p class="row" data-pid="5738829645"> <a href="/sfc/apa/5738829645.html" class="i gallery" data-ids="1:00Y0Y_3z2840RTPTd,1:00M0M_gqFM1gsLWd1,1:00T0T_kNpqQ7ywnev,1:01616_gXvYTH5gUd5,1:00O0O_7N8ca3v8BgM,1:00000_hjwE4q32yKA,1:00X0X_c4Pse3MsQyU,1:00A0A_6t3peJrVrwT,1:00w0w_gVNVimaumsE,1:00S0S_9rVj2meJ9eo"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 11:18" title="Thu 18 Aug 11:18:38 AM">Aug 18</time> <a href="/sfc/apa/5738829645.html" data-id="5738829645" class="hdrlnk"><span id="titletextonly">Studio with Ferry Building &amp; City View! 1 Month Free Rent!</span></a> </span> <span class="l2"> <span class="price">$2920</span> <span class="pnr"> <small> (SOMA / south beach)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5738829645">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5692699189"> <a href="/sfc/apa/5692699189.html" class="i gallery" data-ids="1:00F0F_jvS7ROBQYn8,1:00w0w_10qBBiViJAj,1:00B0B_jLeozkv9xsH,1:00N0N_gpQQMP4AuQI,1:00F0F_byyxqnzGCod,1:00M0M_eAp9EsRYWrR,1:00t0t_fLt1r3Xphwo,1:00X0X_e4bmRRNRR2g,1:00p0p_7xf4pVZpVQH,1:00n0n_13EDPgKqTzo"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 11:17" title="Thu 18 Aug 11:17:27 AM">Aug 18</time> <a href="/sfc/apa/5692699189.html" data-id="5692699189" class="hdrlnk"><span id="titletextonly">Modern and Gorgeous Conveniently Located Condo</span></a> </span> <span class="l2"> <span class="price">$5250</span> <span class="housing">/ 2br - 1500ft<sup>2</sup> - </span> <span class="pnr"> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5692699189">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5738809630" data-repost-of="4673503106"> <a href="/sfc/apa/5738809630.html" class="i gallery" data-ids="1:00Y0Y_hCimNST8h1H,1:00c0c_CGlohdTUqu,1:01515_jTNd533vcuB,1:00Q0Q_lPEiN6cGMtv,1:00K0K_2RCkFnMNgYk,1:00S0S_boFZ1d3IfIc,1:00Z0Z_5cmjENBfgQZ,1:00e0e_kxMD14vaGHx,1:00d0d_5BVpDQ7at8w,1:00909_8gdRPhiQsc6"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 11:17" title="Thu 18 Aug 11:17:26 AM">Aug 18</time> <a href="/sfc/apa/5738809630.html" data-id="5738809630" class="hdrlnk"><span id="titletextonly">LARGE STUDIO IN BEAUTIFUL DOWNTOWN SAN FRANCISCO BUILDING</span></a> </span> <span class="l2"> <span class="price">$1885</span> <span class="housing">/ 550ft<sup>2</sup> - </span> <span class="pnr"> <small> (downtown / civic / van ness)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5738809630">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5738802817"> <a href="/sfc/apa/5738802817.html" class="i gallery" data-ids="1:00W0W_fvbwaLI3NVr,1:00n0n_bKnlJ5rcPe1,1:00303_2tFqb7ArGo3,1:00O0O_6XCM4U1Y0mf,1:00P0P_67fS1KJyFoK,1:00A0A_aFFqMonWITI,1:00G0G_13dkTCFCKAO,1:00I0I_add8GrPOWVs,1:01313_iWcfuAJarck,1:00M0M_1o3u3hUisaT,1:00m0m_at5nXZSG7Ry"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 11:15" title="Thu 18 Aug 11:15:54 AM">Aug 18</time> <a href="/sfc/apa/5738802817.html" data-id="5738802817" class="hdrlnk"><span id="titletextonly">Brand New 2 BD 2 BA w/ A/C in Unit + 1.5 Month Free Rent!</span></a> </span> <span class="l2"> <span class="price">$4465</span> <span class="housing">/ 2br - 937ft<sup>2</sup> - </span> <span class="pnr"> <small> (potrero hill)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5738802817">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5738817633"> <a href="/sfc/apa/5738817633.html" class="i gallery" data-ids="1:00R0R_4dFo3IBAKFJ,1:01414_6Vx9TfOep7q,1:00i0i_cgaGEFbIxeC,1:00l0l_aZZQlrXWBKC,1:00F0F_3Vct1kiyDqN,1:00n0n_je5VGO3AiEk,1:00L0L_aLhXkIDIhk,1:00z0z_hF8pLp1M7Na,1:00707_1KMkmc1XyB,1:00h0h_iCHS0s5wpNV,1:00E0E_jH4talOkDr1"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 11:15" title="Thu 18 Aug 11:15:02 AM">Aug 18</time> <a href="/sfc/apa/5738817633.html" data-id="5738817633" class="hdrlnk"><span id="titletextonly">814 California - Top Floor with Bay Views</span></a> </span> <span class="l2"> <span class="price">$3295</span> <span class="housing">/ 1br - </span> <span class="pnr"> <small> (nob hill)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5738817633">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5738839078" data-repost-of="4857110671"> <a href="/sfc/apa/5738839078.html" class="i gallery"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 11:14" title="Thu 18 Aug 11:14:36 AM">Aug 18</time> <a href="/sfc/apa/5738839078.html" data-id="5738839078" class="hdrlnk"><span id="titletextonly">Presidio 2 bedroom Apartments available at the Presidio Landmark!</span></a> </span> <span class="l2"> <span class="price">$5232</span> <span class="housing">/ 2br - 1000ft<sup>2</sup> - </span> <span class="pnr"> <small> (laurel hts / presidio)</small> <span class="px"> <span class="p"> <span class="maptag" data-pid="5738839078">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5738838634"> <a href="/sfc/apa/5738838634.html" class="i gallery" data-ids="1:00c0c_2GGTbSkXnTW,1:00D0D_hHmRtxdhxZv,1:00606_bycOSS7PU9L,1:00q0q_12SXJ3M5gp,1:00j0j_4v7SkKM9v2l,1:00Y0Y_3UjNJBEFNsj,1:00p0p_jo8bh2ercxj,1:00m0m_fP28KhaBXie,1:00Y0Y_2RN5OIgp85i,1:00K0K_4ENc9NSZZM8,1:00C0C_dXjMmf1f9CL,1:00f0f_4fj3dmdfaok,1:00000_93rfqTgzqWm,1:00A0A_9GXuVRtyP71,1:01313_S4rhMpakya,1:00303_3YPX2oezFU,1:00E0E_3HhM2rPquqs,1:00505_bWLK5g1Kx65,1:00Y0Y_lgK8fRktCQr,1:01010_BUfhIFhgqV,1:00B0B_lEXNHVlpCkQ,1:00V0V_hV2i6F6ouPa,1:00404_gnJjwwTFB7e,1:00Y0Y_3Q4H6DIx6J"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 11:14" title="Thu 18 Aug 11:14:21 AM">Aug 18</time> <a href="/sfc/apa/5738838634.html" data-id="5738838634" class="hdrlnk"><span id="titletextonly">PacificHeights/CowHollowUnfurn2Bed2BathBayViewsReadySept1st1ParkNice!</span></a> </span> <span class="l2"> <span class="price">$7950</span> <span class="housing">/ 2br - 1634ft<sup>2</sup> - </span> <span class="pnr"> <small> (pacific heights)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5738838634">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5738833828"> <a href="/sfc/apa/5738833828.html" class="i gallery" data-ids="1:00l0l_ey9MYcg9Wg8,1:00404_gN9yCVaGwTg,1:00B0B_aA4Kmlq81gR,1:00S0S_8671DXX3FBy"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 11:11" title="Thu 18 Aug 11:11:53 AM">Aug 18</time> <a href="/sfc/apa/5738833828.html" data-id="5738833828" class="hdrlnk"><span id="titletextonly">Open house tonite 6:30 to 7 p.m. Spacious. Walk to Marina &amp; shops</span></a> </span> <span class="l2"> <span class="price">$2395</span> <span class="pnr"> <small> (marina / cow hollow)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5738833828">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5738832543" data-repost-of="4994283861"> <a href="/sfc/apa/5738832543.html" class="i gallery" data-ids="1:00e0e_lm8eSTebm00"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 11:11" title="Thu 18 Aug 11:11:13 AM">Aug 18</time> <a href="/sfc/apa/5738832543.html" data-id="5738832543" class="hdrlnk"><span id="titletextonly">3045 Franklin Street #301 - Large Top Floor Studio</span></a> </span> <span class="l2"> <span class="price">$2700</span> <span class="pnr"> <small> (marina / cow hollow)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5738832543">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5738814459" data-repost-of="5713683259"> <a href="/sfc/apa/5738814459.html" class="i gallery" data-ids="1:00G0G_iT4qiQ5f8y1,1:00808_5H8KqgWTiGg,1:01717_kYT9M73VtBF,1:00Y0Y_5vwXmiwJV08,1:00i0i_i5USvoNJ2us,1:00L0L_14aJvRciN1h"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 11:10" title="Thu 18 Aug 11:10:59 AM">Aug 18</time> <a href="/sfc/apa/5738814459.html" data-id="5738814459" class="hdrlnk"><span id="titletextonly">1br - Tranquil Retreat in Cole Valley -$3795 (cole va</span></a> </span> <span class="l2"> <span class="price">$3795</span> <span class="housing">/ 1br - </span> <span class="pnr"> <small> (cole valley / ashbury hts)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5738814459">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5738811026"> <a href="/sfc/apa/5738811026.html" class="i gallery" data-ids="1:00f0f_9iOcI7WHSC2,1:00Q0Q_h2wGQsWIDFr,1:01414_5iYPNjcUOQB,1:00R0R_fFmxpFdNnWg,1:00v0v_ZqIjsJVgAh,1:00W0W_jUuPz7OuBtQ,1:00606_7luLypbtWvF,1:00E0E_jfCBIthDNj5,1:00u0u_lLDrJYlswkz,1:00u0u_G89YbGzjTW"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 11:10" title="Thu 18 Aug 11:10:16 AM">Aug 18</time> <a href="/sfc/apa/5738811026.html" data-id="5738811026" class="hdrlnk"><span id="titletextonly">One-Bedroom Unit Available Soon! Call For Details!</span></a> </span> <span class="l2"> <span class="price">$2049</span> <span class="housing">/ 1br - 790ft<sup>2</sup> - </span> <span class="pnr"> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5738811026">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5738780662"> <a href="/sfc/apa/5738780662.html" class="i gallery"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 11:09" title="Thu 18 Aug 11:09:34 AM">Aug 18</time> <a href="/sfc/apa/5738780662.html" data-id="5738780662" class="hdrlnk"><span id="titletextonly">INNER SUNSET GREAT STUDIO</span></a> </span> <span class="l2"> <span class="price">$700</span> <span class="pnr"> <small> (inner sunset / UCSF)</small> <span class="px"> <span class="p"> <span class="maptag" data-pid="5738780662">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5738827014"> <a href="/sfc/apa/5738827014.html" class="i gallery" data-ids="1:00N0N_iHgrz4vPTPV,1:00y0y_cJYIp31L4BP,1:00n0n_2c1WijWBQQj,1:00n0n_1tY2sZ3ivZR,1:00F0F_ezoJkSeW7sN,1:00I0I_cs3PLLU8Tqw,1:00u0u_gNAnSsfYoKD,1:00C0C_4WZmEuXNDgA,1:00000_jK58nKqpwzc,1:00000_dQqz9qm8ZxZ,1:00O0O_90SPXGC8lZ6,1:00000_iuAuADfmjKW"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 11:08" title="Thu 18 Aug 11:08:26 AM">Aug 18</time> <a href="/sfc/apa/5738827014.html" data-id="5738827014" class="hdrlnk"><span id="titletextonly">Laurel Heights/Jordan Park new 1 br listing, w/d + d/w + parking</span></a> </span> <span class="l2"> <span class="price">$2995</span> <span class="housing">/ 1br - </span> <span class="pnr"> <small> (laurel hts / presidio)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5738827014">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5738823742"> <a href="/sfc/apa/5738823742.html" class="i gallery" data-ids="1:00G0G_liGXzgXSDQw,1:00P0P_1kOjo9j3nNL,1:00K0K_diNbe1tgv6M,1:00404_ghff48fmNFF,1:00M0M_2EbOrEIX6tK,1:00V0V_9qxlaodFgik,1:00R0R_7iSEKwxRUO,1:00101_5PBpLUCLsaX,1:00C0C_kp0aJtYm3dh,1:00z0z_5MrUNz93uzU,1:00D0D_4qz1DdLoqpS,1:00R0R_1gfNHKjPheM,1:00G0G_zbqjwa1FSC"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 11:06" title="Thu 18 Aug 11:06:50 AM">Aug 18</time> <a href="/sfc/apa/5738823742.html" data-id="5738823742" class="hdrlnk"><span id="titletextonly">Bright Luxury 1Bd/1Ba. in the heart of Mission! W/D, walk to Valencia</span></a> </span> <span class="l2"> <span class="price">$3894</span> <span class="housing">/ 1br - 652ft<sup>2</sup> - </span> <span class="pnr"> <small> (The Mission)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5738823742">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5732116398"> <a href="/sfc/apa/5732116398.html" class="i gallery" data-ids="1:00202_OlNb3bL2UZ,1:00u0u_h0xWWGnwUHZ,1:00505_fjyXaygYPPs,1:00101_dQmrY4rgBVI,1:00a0a_48KbhwYCuqs,1:00707_fE4YQZmAAYF,1:00s0s_TppfDxVxuC,1:00P0P_ecPI3CEBu7c,1:00i0i_27idFvZupoj"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 11:03" title="Thu 18 Aug 11:03:03 AM">Aug 18</time> <a href="/sfc/apa/5732116398.html" data-id="5732116398" class="hdrlnk"><span id="titletextonly">Large Closets, Night Patrol, Short Term Lease</span></a> </span> <span class="l2"> <span class="price">$810</span> <span class="housing">/ 1br - 777ft<sup>2</sup> - </span> <span class="pnr"> <small> (3800 North El Mirage Rd., #3400, Avondale, AZ 85392)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5732116398">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5738763810" data-repost-of="5301884719"> <a href="/sfc/apa/5738763810.html" class="i gallery" data-ids="0:00303_lGZ0jlgkvCt,0:00606_3MR8bYTFTRu,0:00t0t_5PWSDMRTLTe,0:00E0E_7FSuXEcyEu2,0:00505_iA9vH77cqxJ,0:00l0l_7TgOMmB2RYJ,0:00I0I_bPgQ0hX4T6m"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 11:02" title="Thu 18 Aug 11:02:52 AM">Aug 18</time> <a href="/sfc/apa/5738763810.html" data-id="5738763810" class="hdrlnk"><span id="titletextonly">Furnished Jr/Studio 1-12 Leasing Terms</span></a> </span> <span class="l2"> <span class="price">$2399</span> <span class="pnr"> <small> (SOMA / south beach)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5738763810">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5738815688"> <a href="/sfc/apa/5738815688.html" class="i gallery" data-ids="1:00I0I_1GAi5AGpsGs,1:01010_143cBiEpC9f,1:00v0v_80OMKzkFXwQ,1:00f0f_liMnBXLGGgw,1:00r0r_aYrtwuM1pg7,1:00v0v_c7OY7qZOq3r,1:01414_9FJdfZiPdDY,1:00808_2jdMlOPhLM1,1:00b0b_kAT4RsfsbhS,1:00z0z_q5A3xfKBUY,1:01313_bdiaoFvv4EE,1:00I0I_hYli6YYZML7,1:00B0B_64YbWlGBqvC,1:00303_lwy0NVijZR8,1:01616_63KwXGHNTfM,1:00808_9NlPND9NwVX,1:00o0o_5CagAPObMfY,1:00606_fGOWCUOeje9,1:00U0U_1X6VKeqXsjB,1:00z0z_j0EQD65eDqz,1:00m0m_9SvK97uBRVt,1:00k0k_4iEWBZT2KSe,1:00S0S_lx1VrGZZlZB,1:00W0W_g37MGdXK6KF"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 11:02" title="Thu 18 Aug 11:02:40 AM">Aug 18</time> <a href="/sfc/apa/5738815688.html" data-id="5738815688" class="hdrlnk"><span id="titletextonly">4 BED &amp; 3 BA CLEAN, SPACIOUS, GREAT SPACE for SHARING near SF STATE</span></a> </span> <span class="l2"> <span class="price">$5700</span> <span class="housing">/ 4br - 1950ft<sup>2</sup> - </span> <span class="pnr"> <small> (36th avenue &amp; Wawona/Sloat)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5738815688">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5738799460" data-repost-of="4972758017"> <a href="/sfc/apa/5738799460.html" class="i gallery" data-ids="1:00g0g_3x29A0korPR"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 11:02" title="Thu 18 Aug 11:02:12 AM">Aug 18</time> <a href="/sfc/apa/5738799460.html" data-id="5738799460" class="hdrlnk"><span id="titletextonly">California &amp; Parker/Available Now/Laurel Village/Pets Ok!W&D In Unit!</span></a> </span> <span class="l2"> <span class="price">$2995</span> <span class="housing">/ 1br - </span> <span class="pnr"> <small> (laurel hts / presidio)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5738799460">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5738814321" data-repost-of="5734150267"> <a href="/sfc/apa/5738814321.html" class="i gallery" data-ids="1:00T0T_31hi5H9TfMd,1:00K0K_99ZY4NjH9vU,1:00X0X_iWsCH8uPDle,1:00e0e_fppUnGRQizh,1:00k0k_7nMpe8nobuk,1:00i0i_3zksrrEbJLf,1:00D0D_6yrFN3bNOiA,1:00D0D_9MaONztoc71,1:00P0P_hcGs9ljOFS8,1:01515_7NDKsrpHqUR,1:00K0K_8p2yp0Ih4Ls,1:01717_hYn3ImNdZ0i,1:00000_jshB7hOIUm7,1:00Z0Z_40CeRKeHwz3,1:00O0O_8BdqpRSwONZ,1:01414_6nFz6V1tK8D,1:00y0y_c0MR7Ect88W,1:00e0e_fh1iLpcHdZP,1:00808_23f2M139hU"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 11:01" title="Thu 18 Aug 11:01:59 AM">Aug 18</time> <a href="/sfc/apa/5738814321.html" data-id="5738814321" class="hdrlnk"><span id="titletextonly">MILLION DOLLAR VIEWS at THE BLU!!! (Folsom &amp; 2nd)</span></a> </span> <span class="l2"> <span class="price">$5500</span> <span class="housing">/ 2br - 1070ft<sup>2</sup> - </span> <span class="pnr"> <small> (SOMA / south beach)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5738814321">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5738786360"> <a href="/sfc/apa/5738786360.html" class="i gallery" data-ids="1:01717_6UmqS9oP3Pu,1:00Q0Q_k2FbIwpdBtJ,1:00T0T_7QUMBVMEelv,1:00Q0Q_5DJrRoInSP7,1:00p0p_f32Qtj1VVHh,1:00q0q_cDI83sWrdJq,1:00u0u_ia79F8ILGFz,1:00A0A_grCIup3B6RM"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 11:01" title="Thu 18 Aug 11:01:32 AM">Aug 18</time> <a href="/sfc/apa/5738786360.html" data-id="5738786360" class="hdrlnk"><span id="titletextonly">Bay &amp; city views/large floorplan/corner unit/flexible lease term</span></a> </span> <span class="l2"> <span class="price">$3988</span> <span class="housing">/ 1br - </span> <span class="pnr"> <small> (russian hill)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5738786360">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5738660641" data-repost-of="5704173076"> <a href="/sfc/apa/5738660641.html" class="i gallery" data-ids="1:00202_2dCZxYGiMAf,1:00505_7A6cqLqr9fP,1:00s0s_knEP9GhoPkC,1:00Z0Z_4NMdZge6EiJ,1:00r0r_fhCrgRHfPjh,1:00q0q_hvg0BlLLy2o,1:00O0O_b7y3jY8db4R,1:00P0P_h1rhFHIx0QR,1:00i0i_e9V0FmX6CJN,1:00s0s_1y4dmcdZKhi,1:00s0s_1y4dmcdZKhi,1:00F0F_59kdwIRq8cH,1:00E0E_9XpSmjNrIy0"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 11:00" title="Thu 18 Aug 11:00:44 AM">Aug 18</time> <a href="/sfc/apa/5738660641.html" data-id="5738660641" class="hdrlnk"><span id="titletextonly">-Penthouse Flat-Semi Furnished (304 Walnut St)</span></a> </span> <span class="l2"> <span class="price">$3495</span> <span class="housing">/ 1br - </span> <span class="pnr"> <small> (laurel hts / presidio)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5738660641">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5738810140" data-repost-of="4905902372"> <a href="/sfc/apa/5738810140.html" class="i gallery" data-ids="1:00Z0Z_7Go3Z9K1fsC,1:00z0z_k5zf0fZBZuW,1:00J0J_8W2Vll9FLTG,1:00C0C_iTe59LheyRu,1:00o0o_4cTUEx7n7yN,1:00M0M_8vv7UbIo0hI,1:00m0m_5jDwEyt3UlB"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:59" title="Thu 18 Aug 10:59:47 AM">Aug 18</time> <a href="/sfc/apa/5738810140.html" data-id="5738810140" class="hdrlnk"><span id="titletextonly">Spacious Noe Valley One Bedroom with parking and nice view</span></a> </span> <span class="l2"> <span class="price">$3000</span> <span class="housing">/ 1br - </span> <span class="pnr"> <small> (noe valley)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5738810140">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5738809293"> <a href="/sfc/apa/5738809293.html" class="i gallery" data-ids="1:00w0w_4Jbyldb7Ktx,1:00d0d_fLTFtW3DPo9,1:00505_5G0vUoCR0JE,1:00S0S_Xfc0nijFph,1:01111_27EgEhgKoIu,1:00F0F_6SeqST5PD5d,1:00Z0Z_2qdgx4Ld8UX,1:00H0H_5ZbUcOQBg6K"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:59" title="Thu 18 Aug 10:59:20 AM">Aug 18</time> <a href="/sfc/apa/5738809293.html" data-id="5738809293" class="hdrlnk"><span id="titletextonly">Bi-Level Loft near Rincon Hill &amp; FIDI</span></a> </span> <span class="l2"> <span class="price">$6400</span> <span class="housing">/ 4br - 1400ft<sup>2</sup> - </span> <span class="pnr"> <small> (SOMA / south beach)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5738809293">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5738780926" data-repost-of="5659956504"> <a href="/sfc/apa/5738780926.html" class="i gallery" data-ids="1:01212_ejPYWOT898v,1:00g0g_eH5kpRoZwnK,1:00P0P_lXk5eaDOSWg,1:00d0d_keTFttgng5l,1:01515_8qltF51ClJI,1:00M0M_jrdgB1d0Iqn,1:00c0c_b1iS0e1XMie,1:00S0S_jKIlLtFzsHW"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:58" title="Thu 18 Aug 10:58:42 AM">Aug 18</time> <a href="/sfc/apa/5738780926.html" data-id="5738780926" class="hdrlnk"><span id="titletextonly">Private Deck!</span></a> </span> <span class="l2"> <span class="price">$4400</span> <span class="housing">/ 2br - </span> <span class="pnr"> <small> (SOMA / south beach)</small> <span class="px"> <span class="p"> pic</span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5699031393" data-repost-of="5638521003"> <a href="/sfc/apa/5699031393.html" class="i gallery" data-ids="1:00w0w_k2gc9hd1uaq,1:00G0G_6aScPkXzspE,1:00r0r_74AnQiCtvkB,1:00E0E_lXMe29drax5,1:00y0y_3gErPWEpDeR,1:00202_lQSffiJBP3I,1:01111_d0WJnqT3sFO,1:00j0j_fOCKfHr8yfD,1:00x0x_cwnlFKGwuKB,1:00J0J_6dJcnjZ6qzr,1:01010_74UvyJxDC6B,1:00Q0Q_9XamiPcRMAR,1:01313_cSDLnobjGln,1:00909_atMfb1YWH2X,1:00P0P_ihLxtZAeGAk,1:00505_heikCyfZJ6J"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:58" title="Thu 18 Aug 10:58:23 AM">Aug 18</time> <a href="/sfc/apa/5699031393.html" data-id="5699031393" class="hdrlnk"><span id="titletextonly">Lg Furn 1BR @SFMOMA/Fin Dist Sunny&quiet! *WOOD* floors/Pool/Pkg/Gym</span></a> </span> <span class="l2"> <span class="price">$3950</span> <span class="housing">/ 1br - 812ft<sup>2</sup> - </span> <span class="pnr"> <small> (SOMA / south beach)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5699031393">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5738773183" data-repost-of="5659956504"> <a href="/sfc/apa/5738773183.html" class="i gallery" data-ids="1:00c0c_bPRhqzV22NR,1:00L0L_dQouSpoeDcI,1:00b0b_cWNleMZkQu6,1:00404_fRwlf4XDCtc,1:00a0a_cfMunb1GSnk,1:01616_i9PxxHtQANe,1:00K0K_dvGGtFfgwND,1:00H0H_ejUllq7EvQN"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:56" title="Thu 18 Aug 10:56:46 AM">Aug 18</time> <a href="/sfc/apa/5738773183.html" data-id="5738773183" class="hdrlnk"><span id="titletextonly">Luxury Flat</span></a> </span> <span class="l2"> <span class="price">$4150</span> <span class="housing">/ 2br - </span> <span class="pnr"> <small> (SOMA / south beach)</small> <span class="px"> <span class="p"> pic</span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5738803957" data-repost-of="5722594405"> <a href="/sfc/apa/5738803957.html" class="i gallery" data-ids="1:00n0n_8cKXzIbCcyC,1:00s0s_fKmHktUhnOJ,1:00v0v_dxpJEyVgeeo,1:00000_cajcTJp9KDY,1:01616_f5xBe4ujnf6,1:00O0O_16QWF9Jaujz,1:01212_ceqpJfYcSj4,1:00r0r_euTeg15eodg,1:00D0D_a8qZXcCIDgQ,1:01717_eL2Cu1ekNvA,1:00z0z_9lXsmRC2lGn,1:00h0h_dpARrNkHKrH,1:00z0z_9lXsmRC2lGn,1:00X0X_hhdLr7kY0uz,1:00202_9u2V6eAzrsG,1:00707_8XCaQF4UrK3,1:00g0g_7DuAKqK9ro,1:00t0t_3znBNsEaReS,1:01212_6uqwFnYtb5h,1:00j0j_90a1yXLWYaW,1:00N0N_hvntO9baaff,1:00t0t_pcioycUblw,1:00G0G_aNDtNVha4K7,1:00q0q_e4L3JJfgj5U"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:56" title="Thu 18 Aug 10:56:32 AM">Aug 18</time> <a href="/sfc/apa/5738803957.html" data-id="5738803957" class="hdrlnk"><span id="titletextonly">Furnished Room In Gorgeous SF Penthouse</span></a> </span> <span class="l2"> <span class="price">$1900</span> <span class="housing">/ 1br - </span> <span class="pnr"> <small> (hayes valley)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5738803957">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5727393277" data-repost-of="5671684432"> <a href="/sfc/apa/5727393277.html" class="i gallery" data-ids="1:00G0G_lohoqEOPc8t,1:00n0n_lnow0NzJwvL,1:00a0a_4inB82tfgqo,1:00V0V_4URdaPcxLuk,1:00T0T_ff5i5dDy1dN,1:00b0b_4i0XfCxgPSX,1:00m0m_1WOJT9EjzEp,1:01313_g1QWFU1nBkD,1:01313_ivGRjQwNj5B,1:00R0R_TvYKYzWseX"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:55" title="Thu 18 Aug 10:55:22 AM">Aug 18</time> <a href="/sfc/apa/5727393277.html" data-id="5727393277" class="hdrlnk"><span id="titletextonly">New Paint &amp; Carpet - One Bedroom Outer Richmond</span></a> </span> <span class="l2"> <span class="price">$2495</span> <span class="housing">/ 1br - </span> <span class="pnr"> <small> (richmond / seacliff)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5727393277">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5738801535"> <a href="/sfc/apa/5738801535.html" class="i gallery" data-ids="1:00202_erzfhHZFNha,1:00P0P_hIgRXYsEO4r,1:01414_gbv2i5khQ84,1:00m0m_62MgJWUejM0,1:00T0T_evHkFmGjoO,1:01717_bTUiVXDTBZG"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:55" title="Thu 18 Aug 10:55:18 AM">Aug 18</time> <a href="/sfc/apa/5738801535.html" data-id="5738801535" class="hdrlnk"><span id="titletextonly">Midtown Terrace: 2 beds, 1 bath house for lease</span></a> </span> <span class="l2"> <span class="price">$4250</span> <span class="housing">/ 2br - 960ft<sup>2</sup> - </span> <span class="pnr"> <small> (twin peaks / diamond hts)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5738801535">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5734388131"> <a href="/sfc/apa/5734388131.html" class="i gallery" data-ids="1:00X0X_9JbSiHsTQ1p,1:00I0I_1Gnkem9OEG0,1:00y0y_kVek1Qtc24a,1:00v0v_fodCrP8GNAn,1:00B0B_h821WUxzLwR,1:00Y0Y_7fGAZ4aB7Vw,1:00A0A_1wYHAHzMluK,1:00F0F_dJumLEYsDmk,1:00505_eOSChO1fs2L,1:00v0v_ekQqYn4c6Zy,1:00r0r_df10MdcYk3g,1:01212_2imGPQlCtYL,1:00j0j_12i61J9oWbK,1:00C0C_5b0eDbd7NQ"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:55" title="Thu 18 Aug 10:55:14 AM">Aug 18</time> <a href="/sfc/apa/5734388131.html" data-id="5734388131" class="hdrlnk"><span id="titletextonly">- Updated Kitchen - 3 Bedroom, 2 Bath Home - Shown Thursday @4pm</span></a> </span> <span class="l2"> <span class="price">$3995</span> <span class="housing">/ 3br - </span> <span class="pnr"> <small> (mission district)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5734388131">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5738797323" data-repost-of="5708256601"> <a href="/sfc/apa/5738797323.html" class="i gallery"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:53" title="Thu 18 Aug 10:53:10 AM">Aug 18</time> <a href="/sfc/apa/5738797323.html" data-id="5738797323" class="hdrlnk"><span id="titletextonly">2 bedrooms, 1 bath, Kitchen, Living Room</span></a> </span> <span class="l2"> <span class="price">$2650</span> <span class="housing">/ 2br - </span> <span class="pnr"> <small> (inner sunset / UCSF)</small> <span class="px"> <span class="p"> <span class="maptag" data-pid="5738797323">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5735010437" data-repost-of="4791588515"> <a href="/sfc/apa/5735010437.html" class="i gallery" data-ids="1:01515_5gCaJ6nStPK,1:00a0a_6rXa9iVJtMo,1:01616_auoSp8oMkRB,1:00F0F_STZkPHdEuK,1:00u0u_1ZMjiKR61aw,1:00R0R_5OqCnQeO2AQ,1:00i0i_giOv2R7IQEb,1:00F0F_lIfWlCpR5f9,1:00J0J_8ywkksBekFh"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:52" title="Thu 18 Aug 10:52:50 AM">Aug 18</time> <a href="/sfc/apa/5735010437.html" data-id="5735010437" class="hdrlnk"><span id="titletextonly">Beautiful 2bdr Nob Hill Apartment</span></a> </span> <span class="l2"> <span class="price">$3795</span> <span class="housing">/ 2br - 950ft<sup>2</sup> - </span> <span class="pnr"> <small> (nob hill)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5735010437">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5730026434"> <a href="/sfc/apa/5730026434.html" class="i gallery" data-ids="1:00t0t_fch3xVF0pmq,1:01515_SwHZNKz1yr,1:00S0S_iTjXWeppbKQ,1:00w0w_6la2GAU4Koi,1:00N0N_7VlyoXr0kR5,1:00y0y_hdvSEyu2VWs,1:00j0j_k7zis3WzdNW,1:00808_b6ylhM3MqT7,1:00k0k_lARZEVJovpu,1:00L0L_jStlnnCHK9B,1:00R0R_1d67BYLwElq,1:00I0I_6R1BaIZVBhw"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:51" title="Thu 18 Aug 10:51:51 AM">Aug 18</time> <a href="/sfc/apa/5730026434.html" data-id="5730026434" class="hdrlnk"><span id="titletextonly">3 Level Townhouse, 2BR/2.5BA, 2 Car GRG, Laundry, Close to Castro/Noe</span></a> </span> <span class="l2"> <span class="price">$3850</span> <span class="housing">/ 2br - 1870ft<sup>2</sup> - </span> <span class="pnr"> <small> (twin peaks / diamond hts)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5730026434">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5705081917"> <a href="/sfc/apa/5705081917.html" class="i gallery" data-ids="1:00N0N_35XieoTqQIo,1:00505_1D72PTE7J6z,1:00606_gLhx2sEDgaN,1:00I0I_cNfei4i0dAM,1:00l0l_j7GMJTm3zdE,1:00606_dZv36Zw0FHA,1:00n0n_bUlcxKD2sMo,1:00m0m_iIbOl0TRJ5X,1:00000_l6pY75xXX2Z,1:00j0j_IpHhg1g3oK,1:00606_dZv36Zw0FHA,1:00808_hryv9C0MZYr"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:51" title="Thu 18 Aug 10:51:43 AM">Aug 18</time> <a href="/sfc/apa/5705081917.html" data-id="5705081917" class="hdrlnk"><span id="titletextonly">1BR Apt, Lg LR and Walk-in Closet, Close to UCSF, on Bus Line</span></a> </span> <span class="l2"> <span class="price">$2250</span> <span class="housing">/ 1br - </span> <span class="pnr"> <small> (inner sunset / UCSF)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5705081917">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5715479833"> <a href="/sfc/apa/5715479833.html" class="i gallery" data-ids="1:01616_1GG9m3Kn3ze,1:00J0J_jzdMYZJCkbq,1:00U0U_4YUTtulitEd,1:00S0S_l02Aof3RUN9,1:00P0P_i0Gyrnrl8hQ,1:00707_ewX4v20Hmxm,1:00d0d_2Etv6L54xj1,1:00505_2ssswzbmbP6,1:00303_cPJ5olDk2Yt,1:00b0b_kPvx2JiJGxV"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:51" title="Thu 18 Aug 10:51:35 AM">Aug 18</time> <a href="/sfc/apa/5715479833.html" data-id="5715479833" class="hdrlnk"><span id="titletextonly">Spacious 1BR Apt. Hardwood Floors, LG LR, Ding Area off Kitchen</span></a> </span> <span class="l2"> <span class="price">$2495</span> <span class="housing">/ 1br - </span> <span class="pnr"> <small> (richmond / seacliff)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5715479833">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5738750986"> <a href="/sfc/apa/5738750986.html" class="i gallery" data-ids="1:00q0q_fECbZpcPV7h,1:00W0W_i5vGC1AK3Ks,1:00c0c_ex3voI39owr,1:00101_gcF8VfmfpEA,1:00606_a4i6yqs2AzM,1:00404_5BA2wj3iXbF,1:00Y0Y_3rXykPp0S2f,1:00k0k_h3Zg1wnj2H0"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:51" title="Thu 18 Aug 10:51:17 AM">Aug 18</time> <a href="/sfc/apa/5738750986.html" data-id="5738750986" class="hdrlnk"><span id="titletextonly">Modern Sanctuary with Full Amenities! Reduced Price! 6 Weeks Free!</span></a> </span> <span class="l2"> <span class="price">$2995</span> <span class="housing">/ 360ft<sup>2</sup> - </span> <span class="pnr"> <small> (potrero hill)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5738750986">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5727434428"> <a href="/sfc/apa/5727434428.html" class="i gallery" data-ids="1:00g0g_fRC96H9An1G,1:00000_23UwZhn00Mu,1:00u0u_1oPcw0Nfonm,1:00303_iWKrwhallFh"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:50" title="Thu 18 Aug 10:50:58 AM">Aug 18</time> <a href="/sfc/apa/5727434428.html" data-id="5727434428" class="hdrlnk"><span id="titletextonly">Fantastic 2bdr remodeled apartment in quiet back building</span></a> </span> <span class="l2"> <span class="price">$4000</span> <span class="housing">/ 2br - 1000ft<sup>2</sup> - </span> <span class="pnr"> <small> (richmond / seacliff)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5727434428">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5738148335" data-repost-of="5663386874"> <a href="/sfc/apa/5738148335.html" class="i gallery" data-ids="1:00q0q_8RbcCYv0Hzb,1:00t0t_RWSGDcOAvu,1:00P0P_aW0OzDu9P25,1:00w0w_knsttZ62EkY,1:00h0h_7d94grEQPTB,1:00y0y_epAlii9aKRh,1:00u0u_RHVB8Ffoau,1:00Z0Z_8uxnTVByWVd,1:00S0S_khStAYtvSib,1:00R0R_PCrJQHYZuz,1:00o0o_3yqTriI9WEV,1:01111_7wqpvACqFQY,1:00f0f_8rtbBrTAvfq,1:01414_VHm1Xy1ZgK,1:00808_j8Xkf4qB3Qi,1:00l0l_3qypzBSWEWK"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:48" title="Thu 18 Aug 10:48:47 AM">Aug 18</time> <a href="/sfc/apa/5738148335.html" data-id="5738148335" class="hdrlnk"><span id="titletextonly">Elegant, Fully Furnished, Top Floor with Panoramic Harbor Views</span></a> </span> <span class="l2"> <span class="price">$5950</span> <span class="housing">/ 2br - 1000ft<sup>2</sup> - </span> <span class="pnr"> <small> (russian hill)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5738148335">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5738724715" data-repost-of="5077731723"> <a href="/sfc/apa/5738724715.html" class="i gallery" data-ids="1:01111_5oRl00RBjts,1:00O0O_fYRIhTcmHFT,1:00h0h_fHJg78NgNJy,1:00v0v_ijI9x1MBQ6a,1:00w0w_6uU8SlZ3wXk,1:00g0g_2HK5eAdtBdy,1:01010_75iQCQVdhrx,1:00W0W_i52usTmQ1Ak,0:00P0P_gdYqeORZQ8C,0:00T0T_2Z70xoi8BUR,1:00r0r_e9u6aYcvHvE"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:48" title="Thu 18 Aug 10:48:29 AM">Aug 18</time> <a href="/sfc/apa/5738724715.html" data-id="5738724715" class="hdrlnk"><span id="titletextonly">Fully Furnished 2 Bed 1 Bath with Tons of Closet Space!</span></a> </span> <span class="l2"> <span class="price">$4249</span> <span class="housing">/ 2br - </span> <span class="pnr"> <small> (pacific heights)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5738724715">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5727785441" data-repost-of="5570452018"> <a href="/sfc/apa/5727785441.html" class="i gallery" data-ids="1:00d0d_lln6PNdXDUS,1:00K0K_gCaTFeyWvrP,1:00D0D_4OkhKW9vHb2,1:01414_bj1UbeNdTBW,1:00Y0Y_9YM2fOvZWSp,1:00M0M_i2Icko1c2xC,1:00s0s_8cQNrjaXW22,1:00C0C_kaKiLBcxHz4,1:00G0G_dvncXZx16Wi"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:48" title="Thu 18 Aug 10:48:18 AM">Aug 18</time> <a href="/sfc/apa/5727785441.html" data-id="5727785441" class="hdrlnk"><span id="titletextonly">Exceptional Luxury in the heart of the Financial District</span></a> </span> <span class="l2"> <span class="price">$12500</span> <span class="housing">/ 2br - 1450ft<sup>2</sup> - </span> <span class="pnr"> <small> (downtown / civic / van ness)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5727785441">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5697406328"> <a href="/sfc/apa/5697406328.html" class="i gallery" data-ids="1:00000_bRCGDrSZ0KN,1:00e0e_kzY0PkRQl6f,1:00F0F_bsG3M8QMZIo,1:00A0A_cSFVIIhxUYA,1:00B0B_exb22SMMD9R,1:00H0H_hwWASos8BCI"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:46" title="Thu 18 Aug 10:46:56 AM">Aug 18</time> <a href="/sfc/apa/5697406328.html" data-id="5697406328" class="hdrlnk"><span id="titletextonly">FURNISHED 2BR 1.5BA BAY VIEWS</span></a> </span> <span class="l2"> <span class="price">$4500</span> <span class="housing">/ 2br - 1000ft<sup>2</sup> - </span> <span class="pnr"> <small> (castro / upper market)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5697406328">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5738781845" data-repost-of="5651770331"> <a href="/sfc/apa/5738781845.html" class="i gallery" data-ids="1:00808_2ytfNJF5DjK,1:00v0v_lqbM545qV6y,1:01515_esqRA4Vr4wB,1:00l0l_2YEbb4f8csR,1:00G0G_lBWIZa17Plp,1:00V0V_dnmg4WqA4nN,1:00x0x_l0xJMoyGjLf,1:00H0H_e08XAmhV3wD,1:00S0S_ihQt6Kfp3D3,1:00v0v_dnT9HgjHmtU,1:00C0C_hNEdOFt4M4w,1:00F0F_cVOKzvPsPk6,1:00L0L_dyQDPLv9Hyh,1:00V0V_iz5cPuG5T2S,1:00Z0Z_8uxnTVByWVd,1:00u0u_RHVB8Ffoau,1:01111_7wqpvACqFQY"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:45" title="Thu 18 Aug 10:45:13 AM">Aug 18</time> <a href="/sfc/apa/5738781845.html" data-id="5738781845" class="hdrlnk"><span id="titletextonly">Fabulous, Sunny with Harbor View</span></a> </span> <span class="l2"> <span class="price">$4200</span> <span class="housing">/ 2br - 1000ft<sup>2</sup> - </span> <span class="pnr"> <small> (russian hill)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5738781845">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5726283159" data-repost-of="5670225003"> <a href="/sfc/apa/5726283159.html" class="i gallery" data-ids="1:00707_bTWVtUlWbmh,1:00m0m_9Hq2Xqqhwxz,1:01717_2qZ8ku3yoNi,1:00V0V_9QtSngP8rLz,1:01414_7OrlQgCLloP,1:00000_3Uft3kaHLPv,1:00a0a_5awAd74y7M3"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:44" title="Thu 18 Aug 10:44:59 AM">Aug 18</time> <a href="/sfc/apa/5726283159.html" data-id="5726283159" class="hdrlnk"><span id="titletextonly">4 PEOPLE SHARE A UPPER FLAT</span></a> </span> <span class="l2"> <span class="price">$4900</span> <span class="housing">/ 4br - 1370ft<sup>2</sup> - </span> <span class="pnr"> <small> (inner sunset / UCSF)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5726283159">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5738757400" data-repost-of="5461725671"> <a href="/sfc/apa/5738757400.html" class="i gallery" data-ids="1:00Z0Z_5oVarLXAl0t,1:00y0y_gRlXE3GcTZC,1:00o0o_EBCNooT2Kq,1:00606_89pnoEFDLez,1:00d0d_n8H09tZmWw,1:00N0N_fj8FWssh10O,1:00404_i2HiHG9G2rQ,1:01111_evBMzbt1jxc,1:00v0v_75FARmcz6wz,1:00W0W_5rZWlubaVtY,1:00Y0Y_kqhUtgnt1O0,1:00k0k_4x0HfAO8NBw"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:44" title="Thu 18 Aug 10:44:30 AM">Aug 18</time> <a href="/sfc/apa/5738757400.html" data-id="5738757400" class="hdrlnk"><span id="titletextonly">Exclusive 4-Bedroom Architectural Masterpiece!</span></a> </span> <span class="l2"> <span class="price">$11500</span> <span class="housing">/ 4br - </span> <span class="pnr"> <small> (west portal / forest hill)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5738757400">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5738774821"> <a href="/sfc/apa/5738774821.html" class="i gallery" data-ids="1:01616_hb469hFsWJu,1:00q0q_6T00pumos5V,1:00Q0Q_iTypEadHhWv,1:00a0a_T6hTJYa3Eq,1:00W0W_87k2wuHbrR,1:01414_cUgvcDPUYON,1:01111_bOneeRvAZ3G,1:00n0n_3N0rzPCWSLq"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:41" title="Thu 18 Aug 10:41:34 AM">Aug 18</time> <a href="/sfc/apa/5738774821.html" data-id="5738774821" class="hdrlnk"><span id="titletextonly">Spacious Studio, Perfect bit of Everything You Need.</span></a> </span> <span class="l2"> <span class="price">$3060</span> <span class="housing">/ 489ft<sup>2</sup> - </span> <span class="pnr"> <small> (SOMA / south beach)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5738774821">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5738773425"> <a href="/sfc/apa/5738773425.html" class="i gallery" data-ids="1:00R0R_iIGBlSkwd6K,1:00z0z_7AgVOpwmvH5,1:00101_fLCLZjvmYGi,1:00f0f_j0Vcbu7eY9Z,1:00w0w_cFaziSXxHLN,1:00H0H_jaxBnSWLGtX,1:00B0B_7DzQaQludYI,1:00q0q_5jnOdhpq2dR"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:40" title="Thu 18 Aug 10:40:57 AM">Aug 18</time> <a href="/sfc/apa/5738773425.html" data-id="5738773425" class="hdrlnk"><span id="titletextonly">Top Floor 1 BD w/ Full w/D in Unit + 1.5 Month Free Rent!</span></a> </span> <span class="l2"> <span class="price">$3405</span> <span class="housing">/ 1br - 586ft<sup>2</sup> - </span> <span class="pnr"> <small> (potrero hill)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5738773425">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5738694585" data-repost-of="5714766392"> <a href="/sfc/apa/5738694585.html" class="i gallery" data-ids="1:00r0r_1XTzrod6fhz,1:00m0m_7MIfJohhmsA,1:00Q0Q_3A1qXXDRb7J,1:00Q0Q_iQdnFEITnEo,1:01212_9cg1MxiNPlG,1:00S0S_hwssQeikCPG,1:00t0t_hl53JVTPYmQ,1:00Y0Y_2FaCuRZc7ev,1:00n0n_4xLGAXar17j"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:40" title="Thu 18 Aug 10:40:07 AM">Aug 18</time> <a href="/sfc/apa/5738694585.html" data-id="5738694585" class="hdrlnk"><span id="titletextonly">Designer Jr with a view of the Water</span></a> </span> <span class="l2"> <span class="price">$2874</span> <span class="pnr"> <small> (marina / cow hollow)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5738694585">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5697960314"> <a href="/sfc/apa/5697960314.html" class="i gallery"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:39" title="Thu 18 Aug 10:39:29 AM">Aug 18</time> <a href="/sfc/apa/5697960314.html" data-id="5697960314" class="hdrlnk"><span id="titletextonly">Fleetwood Motor Home For rent 700.00</span></a> </span> <span class="l2"> <span class="price">$700</span> <span class="housing">/ 1br - 26ft<sup>2</sup> - </span> <span class="pnr"> <small> (San Francisco)</small> <span class="px"> <span class="p"> </span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5738770644" data-repost-of="5088851506"> <a href="/sfc/apa/5738770644.html" class="i gallery" data-ids="1:00808_3qYSHtqSq3b,1:01717_6Dz73TlArfa,1:00h0h_6V0bp893KoQ,1:00S0S_bIlbBDDRxtq,1:01111_bYv85o67yKo,1:01616_1aewXfyZklp,1:00O0O_bfvkvzoK2ZA,1:01111_kGEPU05cPPl,1:00j0j_3NLYGprYyq6"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:39" title="Thu 18 Aug 10:39:26 AM">Aug 18</time> <a href="/sfc/apa/5738770644.html" data-id="5738770644" class="hdrlnk"><span id="titletextonly">Large Four Room Sunny Apartment</span></a> </span> <span class="l2"> <span class="price">$3800</span> <span class="housing">/ 1br - 1100ft<sup>2</sup> - </span> <span class="pnr"> <small> (noe valley)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5738770644">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5738770172"> <a href="/sfc/apa/5738770172.html" class="i gallery" data-ids="1:00S0S_lKMKJ9EGB3G,1:00505_6Xwm1SxH2yc,1:00m0m_9ymr6ChszUl,1:01717_dX8xBMW6q0P,1:00606_7P45GA8BeW4,1:00d0d_9s7dhhFkZdQ,1:01616_kmWUDT6tyOP,1:00808_jpU0ZRz5idb"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:39" title="Thu 18 Aug 10:39:13 AM">Aug 18</time> <a href="/sfc/apa/5738770172.html" data-id="5738770172" class="hdrlnk"><span id="titletextonly">Open and Bright Studio</span></a> </span> <span class="l2"> <span class="price">$2414</span> <span class="housing">/ 415ft<sup>2</sup> - </span> <span class="pnr"> <small> (lower nob hill)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5738770172">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5738759227" data-repost-of="4282157351"> <a href="/sfc/apa/5738759227.html" class="i gallery" data-ids="1:00505_iLRl4aBSXfC,1:00808_2i3YZ0X4Qo,1:00O0O_bMVrAaAtiiG,1:00n0n_1JwhCp5oyYz,1:00I0I_69emzGjrBG5,1:00000_9oql7XLC2F6,1:00p0p_dHppGejov3j"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:38" title="Thu 18 Aug 10:38:31 AM">Aug 18</time> <a href="/sfc/apa/5738759227.html" data-id="5738759227" class="hdrlnk"><span id="titletextonly">Updated STUDIO apartment near St. Francis Hospital Parking available</span></a> </span> <span class="l2"> <span class="price">$1800</span> <span class="pnr"> <small> (lower nob hill)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5738759227">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5733964415"> <a href="/sfc/apa/5733964415.html" class="i gallery" data-ids="1:00101_gfM8jejNXLo,1:00E0E_ku2dW09O523,1:00S0S_cmR12mFoHfE,1:00x0x_2LADvN4I8BX,1:00N0N_6PCzPHv86A3,1:00z0z_5N2LD5fUqbO,1:00t0t_hQI6im1tkd2,1:00R0R_18dWmAjO9eS,1:00505_7ERGNUl02RO,1:00j0j_d9ApTFyQfLL,1:01111_cdMQyMMYiEU,1:00W0W_2DqRvV0cCcC,1:00g0g_bdgGn574lAI,1:01717_hmL88YgZ7lk,1:00606_6EpewZ2HR5R,1:00k0k_hw9o5LkvPVJ,1:00P0P_jQFItG6lMFy,1:00C0C_jr7Wz8JJI5s,1:01111_2aPpsHmTdXt,1:00d0d_iyiAix8y7C5,1:00U0U_2vWKmWn4cDO,1:00A0A_9GXuVRtyP71,1:00E0E_3HhM2rPquqs,1:00C0C_dXjMmf1f9CL"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:38" title="Thu 18 Aug 10:38:28 AM">Aug 18</time> <a href="/sfc/apa/5733964415.html" data-id="5733964415" class="hdrlnk"><span id="titletextonly">RentalOpenHouseTuesAug15thThroughAug21st230pmto430pmRSVP4or5Bed3Bath</span></a> </span> <span class="l2"> <span class="price">$9950</span> <span class="housing">/ 5br - 2600ft<sup>2</sup> - </span> <span class="pnr"> <small> (noe valley)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5733964415">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5734090997"> <a href="/sfc/apa/5734090997.html" class="i gallery" data-ids="1:01717_3SagRVhG4A9,1:00J0J_anStvImIikX,1:00e0e_aHKN5awEUfM,1:00R0R_1LLhu1xfolj,1:00A0A_7TtCK16kTkb,1:00606_46D0hQklD7g,1:00o0o_78Sn4QNdGlb,1:00C0C_dXjMmf1f9CL,1:00L0L_lTXlUKFZfY2,1:00101_glmkimFLuBo,1:00E0E_3HhM2rPquqs,1:00U0U_dmDREd7xcWi,1:00K0K_deGX3uBrhh5,1:00A0A_9GXuVRtyP71,1:01616_iLeLEGNaANf,1:00r0r_lGcz7kheZkZ,1:00X0X_1Ns3FnC5bQz,1:00K0K_cByFLAdiKTh,1:00a0a_5CT6ie7R2P0,1:01010_BUfhIFhgqV,1:00F0F_7zybjLoK9am,1:00g0g_d4i8treng7T,1:00r0r_lGcz7kheZkZ,1:00202_65Ak2z6Ss72"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:38" title="Thu 18 Aug 10:38:24 AM">Aug 18</time> <a href="/sfc/apa/5734090997.html" data-id="5734090997" class="hdrlnk"><span id="titletextonly">MoveInReady8.16OpenHouseStartingTues-8.15thTHROUGHSun8.21st12pmto2pm</span></a> </span> <span class="l2"> <span class="price">$6995</span> <span class="housing">/ 3br - 1350ft<sup>2</sup> - </span> <span class="pnr"> <small> (noe valley)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5734090997">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5738712600" data-repost-of="4618885947"> <a href="/sfc/apa/5738712600.html" class="i gallery" data-ids="1:00k0k_3goq0ejVPAy,1:00I0I_84jGn0Hitiw,1:00N0N_hh1IH7p39ua,1:00f0f_BulBFyGmIa,1:00E0E_iXFqOjyvss8"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:38" title="Thu 18 Aug 10:38:21 AM">Aug 18</time> <a href="/sfc/apa/5738712600.html" data-id="5738712600" class="hdrlnk"><span id="titletextonly">Classic &amp; Spacious Hardwood Floor Studio In Heart Of Richmond</span></a> </span> <span class="l2"> <span class="price">$2199</span> <span class="pnr"> <small> (inner richmond)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5738712600">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5738768368" data-repost-of="5690928963"> <a href="/sfc/apa/5738768368.html" class="i gallery" data-ids="1:00e0e_h28NVOwffGv,1:00T0T_gFz7roJCXIH,1:00T0T_jM7uUZHHHpR,1:00Q0Q_8c2VtXEav3g,1:00606_2MFukNZzsbU,1:00u0u_kXqVdblFSL5,1:00303_1Jbj6v9E1pA,1:00k0k_hqAW54KBauw,1:00k0k_YTdPoXMASX,1:00W0W_23PuiNvAeE1,1:00Y0Y_dVILCNTv9S0,1:00505_iLLYd7u3cvo,1:00U0U_4fv55DbevNA,1:01414_gQtC9QUIheT,1:00W0W_8xlEmIWWWVo,1:00808_5Q10lajgWI1,1:00M0M_aNxVeyQIip,1:00O0O_19hWpT4wstV,1:00v0v_fVnBCqkOx0Y,1:00D0D_gG1sMOCdUHo,1:00909_6GsxSmDnMf5"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:38" title="Thu 18 Aug 10:38:19 AM">Aug 18</time> <a href="/sfc/apa/5738768368.html" data-id="5738768368" class="hdrlnk"><span id="titletextonly">Sunny &amp; Spacious Richmond District! 4 Bd 3 Bath DOUBLE MASTER!</span></a> </span> <span class="l2"> <span class="price">$5900</span> <span class="housing">/ 4br - </span> <span class="pnr"> <small> (richmond / seacliff)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5738768368">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5734029628" data-repost-of="5646623024"> <a href="/sfc/apa/5734029628.html" class="i gallery" data-ids="1:00B0B_8dp2JdS7GWU,1:01515_1pB4Un4WWVB,1:00404_aW2oLjV8n8S,1:00S0S_775VVDlRbiH,1:00G0G_7PhQqFhFqN9,1:01313_gYQbq3Bx2XR,1:00x0x_isshzNkZCxY,1:00K0K_eUgvnzKFRfx,1:00f0f_a4KETQcGnIA,1:00c0c_4nHcv2ULn5q"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:38" title="Thu 18 Aug 10:38:14 AM">Aug 18</time> <a href="/sfc/apa/5734029628.html" data-id="5734029628" class="hdrlnk"><span id="titletextonly">Luxury 1 Bedroom | Furnished Stand-Alone Cottage | ReLISTO</span></a> </span> <span class="l2"> <span class="price">$3095</span> <span class="housing">/ 1br - 500ft<sup>2</sup> - </span> <span class="pnr"> <small> (pacific heights)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5734029628">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5734124540"> <a href="/sfc/apa/5734124540.html" class="i gallery" data-ids="1:00r0r_317XUnKIYFQ,1:00K0K_argt6vkeok7,1:00S0S_3DAtCwW1oEd,1:00W0W_aYY9423A2PQ,1:00n0n_lncfCPIz11Y,1:00303_dNpjMiDF3s2,1:00W0W_grvTfMH3ekw,1:01111_jJZ1xEJyWcu,1:00i0i_57iWFEKBxjX,1:00303_4DNF8IfZg6f,1:00E0E_jjCYNPnHMXQ,1:00Y0Y_1Gs7r0q8Avd,1:00404_ewCwGRpVchX,1:00C0C_dXjMmf1f9CL,1:00K0K_8NZTElieFNB,1:00u0u_hjcDLFmTvhv,1:01414_glBSfawCnea,1:01616_dUhjpt3y0Sr,1:00M0M_75ExyUgYu4s,1:00A0A_9GXuVRtyP71,1:00404_ewCwGRpVchX,1:00000_4z3j3HUsNjp,1:01010_BUfhIFhgqV,1:00E0E_3HhM2rPquqs"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:38" title="Thu 18 Aug 10:38:04 AM">Aug 18</time> <a href="/sfc/apa/5734124540.html" data-id="5734124540" class="hdrlnk"><span id="titletextonly">OpenHouseAllWeekFrm11amto1145amStartingTuesAug16ththrghAug21st3BedRSVP</span></a> </span> <span class="l2"> <span class="price">$6450</span> <span class="housing">/ 3br - 1250ft<sup>2</sup> - </span> <span class="pnr"> <small> (haight ashbury)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5734124540">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5727765065"> <a href="/sfc/apa/5727765065.html" class="i gallery" data-ids="1:00K0K_jXicu7tDCDz,1:00Y0Y_923JOTlctJ2,1:00z0z_fwTaur6Sw5O,1:00n0n_gDG7GTh1ZIG,1:01717_cJrrOjPRHHt,1:00Y0Y_923JOTlctJ2,1:01515_34f0pATLjk4,1:01515_hOkStSqjUYZ,1:00D0D_hpjcf163uYz,1:00Q0Q_i251zl1rfuL,1:00C0C_dXjMmf1f9CL,1:00a0a_arP4xIlmIQ7,1:00c0c_4CxiTzr7AMB,1:00F0F_4X7U7R1frGK,1:01515_hOkStSqjUYZ,1:00W0W_9kgnxlW61u4,1:00e0e_1l9ZLUJ1KQI,1:00y0y_2ZlSolohFEl,1:01010_BUfhIFhgqV,1:00m0m_2Mfe10gZgEV,1:00W0W_1ko3hkauUlJ,1:00z0z_fRB8xgZmWqN,1:00606_gq8UJuGrcSd,1:00q0q_1fFoNRJSFaH"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:37" title="Thu 18 Aug 10:37:58 AM">Aug 18</time> <a href="/sfc/apa/5727765065.html" data-id="5727765065" class="hdrlnk"><span id="titletextonly">Ready8.14.16-PotreroHillsHomeYardPetsYesRenovated3Bed2BathVeryNice</span></a> </span> <span class="l2"> <span class="price">$5595</span> <span class="housing">/ 3br - 1020ft<sup>2</sup> - </span> <span class="pnr"> <small> (potrero hill)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5727765065">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5718880705"> <a href="/sfc/apa/5718880705.html" class="i gallery" data-ids="1:00v0v_Wz847yREKn,1:00J0J_j2aRABe1Yek,1:00d0d_dk8zkhSZDdr,1:00a0a_329so1T4MkA,1:00404_jtvDA099g52,1:00303_5BAYFrtaqdj,1:00S0S_7qbih9tq1Oj,1:00F0F_lDPSuLSRMZA,1:01515_bgLG7TmrVoD,1:00x0x_izNtGYVzOtW,1:00707_gMpouY5feEI,1:00w0w_2RXbFe2USlH,1:00W0W_8lWFZmxiyVs,1:00y0y_h9NoZH4Myzb,1:00i0i_8hcS3KvpgYW,1:00101_bBhpqBZxoSZ,1:00F0F_3iex0WQOroY,1:00b0b_ag3rrU2UHJW,1:00C0C_gAJu0m6dMdv,1:00S0S_7qbih9tq1Oj,1:00303_5BAYFrtaqdj,1:01515_46LQqOYClmB,1:00I0I_2f0KXDVn79m,1:00y0y_svBid6zios"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:37" title="Thu 18 Aug 10:37:40 AM">Aug 18</time> <a href="/sfc/apa/5718880705.html" data-id="5718880705" class="hdrlnk"><span id="titletextonly">GreatLiveWorkOfficesResidentail3Bed3BathRoofTop2Garage1.5BlktoCaltrain</span></a> </span> <span class="l2"> <span class="price">$16950</span> <span class="housing">/ 3br - 3000ft<sup>2</sup> - </span> <span class="pnr"> <small> (SOMA / south beach)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5718880705">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5718899213"> <a href="/sfc/apa/5718899213.html" class="i gallery" data-ids="1:00P0P_imTxJNVqIQ6,1:00E0E_ib4Eox6WEI9,1:00505_3KF5g2Ms4uj,1:00t0t_jImIcCc2oIB,1:00K0K_bPwOeXC9tdY,1:00v0v_edShd3M673f,1:00s0s_7NP5sC1kZna,1:00N0N_hPQFwJwdc59,1:01212_6Pt0pIINPB5,1:01212_9oCoZAVO2t1,1:00F0F_lDPSuLSRMZA,1:00000_28peCe9N2Fs,1:00u0u_8MDiypj9YQ9,1:00h0h_dK2rB64TUpy,1:00G0G_446yOSPzZ2S,1:00e0e_34eJ3vERwyw,1:00O0O_2inTBH9UP3D,1:01111_aGFNJzOSetJ,1:00G0G_1EquYnkT9oI,1:00505_6QyKfkiJyOI,1:00303_aFFRIkWua86,1:00D0D_dmchvb3670D,1:00404_tzyYpjIp1a,1:01111_iRqqNvBU0Ns"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:37" title="Thu 18 Aug 10:37:36 AM">Aug 18</time> <a href="/sfc/apa/5718899213.html" data-id="5718899213" class="hdrlnk"><span id="titletextonly">RentalOpenHseSunAug14th-3pmto330pm-3bed1bathLivingJ-Church1Blk24th1Blk</span></a> </span> <span class="l2"> <span class="price">$5995</span> <span class="housing">/ 3br - 1100ft<sup>2</sup> - </span> <span class="pnr"> <small> (noe valley)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5718899213">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5738766857" data-repost-of="5600839586"> <a href="/sfc/apa/5738766857.html" class="i gallery" data-ids="1:00z0z_2wM3FHyUUW2,1:00W0W_kxCr4C8sxkA,1:00M0M_lDzwRS0NvGw,1:00W0W_bp9N4D6c98O,1:00R0R_jD9t8HIXZXf"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:37" title="Thu 18 Aug 10:37:31 AM">Aug 18</time> <a href="/sfc/apa/5738766857.html" data-id="5738766857" class="hdrlnk"><span id="titletextonly">Spacious newly renovated one Bedroom</span></a> </span> <span class="l2"> <span class="price">$3295</span> <span class="housing">/ 1br - 575ft<sup>2</sup> - </span> <span class="pnr"> <small> (russian hill)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5738766857">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5718909632"> <a href="/sfc/apa/5718909632.html" class="i gallery" data-ids="1:00J0J_6wZoxbQ11Eo,1:01515_42I3z2YFDo6,1:00808_g4dfyMsDZUs,1:01212_5uRXPkqA8vp,1:00u0u_kzuIUzSz3w,1:01717_fQeKFtXTdlO,1:00M0M_4xGwsZSQYXA,1:00z0z_38xEWp9ylTG,1:00404_lRF7YpnOTek,1:00808_ajjqnnY2dsq,1:00C0C_dXjMmf1f9CL,1:00A0A_iWJNWJdzI7y,1:00d0d_cfXYN7XHcIZ,1:00q0q_91LrwC60Bty,1:00909_euK2LW0jOg,1:00A0A_9GXuVRtyP71,1:01010_BUfhIFhgqV,1:00D0D_mLJcbL0Xrf,1:01010_z5FxKQuT9N,1:01414_7CtsFtB8Anh,1:00g0g_UR7IA4qHT4,1:00x0x_fgRXKLZlzCk,1:00k0k_9jGYCsCGTue,1:00D0D_mLJcbL0Xrf"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:37" title="Thu 18 Aug 10:37:30 AM">Aug 18</time> <a href="/sfc/apa/5718909632.html" data-id="5718909632" class="hdrlnk"><span id="titletextonly">OpenHouseSun1130am to 1230pm-RenovationCompletebySept1st</span></a> </span> <span class="l2"> <span class="price">$9950</span> <span class="housing">/ 3br - 2000ft<sup>2</sup> - </span> <span class="pnr"> <small> (castro / upper market)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5718909632">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5719354880"> <a href="/sfc/apa/5719354880.html" class="i gallery" data-ids="1:00c0c_dXhGAWRJRkL,1:00K0K_8Ev8gJZwcfu,1:00j0j_2ytCF0fKFmx,1:00r0r_kUZanc6rb8F,1:01010_jHw92Ef1GBL,1:00m0m_1vmStP1JH4e,1:00x0x_gf1M2DX6IIW,1:00p0p_bMD7gHsSrlt,1:00909_gMjRNFNDJt0,1:00c0c_iPiEamc58yP,1:00P0P_60AcyTX0gO4,1:00B0B_f9MK9jzYt5X,1:00B0B_3oLmHwwCbsE,1:00C0C_dXjMmf1f9CL,1:00K0K_cLPdpg7XclF,1:00V0V_jgXY7iPR5YU,1:00Y0Y_64Ok3uiQKSg,1:00f0f_4ezrrfV6vpa,1:00G0G_lnANHE5LqQr,1:00Q0Q_7OF6GbyIRu2,1:00J0J_9Mfp3pRK6jI,1:00F0F_jknIALD6MpM,1:00G0G_8mqPkwzfcZq,1:00909_jazatC4v1KD"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:37" title="Thu 18 Aug 10:37:09 AM">Aug 18</time> <a href="/sfc/apa/5719354880.html" data-id="5719354880" class="hdrlnk"><span id="titletextonly">RentedByCaliforniaRealtyGroup-FreeLandlordLeasingRENTED</span></a> </span> <span class="l2"> <span class="price">$5995</span> <span class="housing">/ 2br - 1400ft<sup>2</sup> - </span> <span class="pnr"> <small> (SOMA / south beach)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5719354880">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5713668119"> <a href="/sfc/apa/5713668119.html" class="i gallery" data-ids="1:00P0P_egl8KmXlR5f,1:00S0S_8LlaAQ2RjJa,1:00909_gCf1Td6CZbE,1:00202_9H9ldvufqMu,1:00D0D_9xFiptdXq6y,1:00A0A_kEav5KvbROF,1:01414_g3KJ9Rodv3H,1:00F0F_lDPSuLSRMZA,1:00C0C_g24A1Tmgm2i,1:01010_awRV8WMZrGc,1:00101_c9ZL5RiX3wQ,1:00i0i_7JiPAIYUs3Z,1:00f0f_9UVWTQQ6DYv,1:00606_4k6zftIvWe,1:00H0H_2mYqJH1sr7R,1:00N0N_l50DNTdyZ7S,1:00S0S_95C268n2QAy,1:01111_eaHoNivaenf,1:01212_4ObPMOd33zf,1:00000_8XnsKGRfAtj,1:00G0G_6SQEyW0cEg1,1:00X0X_il4Ar7v3iIo,1:00q0q_9RfEF42ldoP,1:00B0B_3v2QpLlK8Jf"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:37" title="Thu 18 Aug 10:37:03 AM">Aug 18</time> <a href="/sfc/apa/5713668119.html" data-id="5713668119" class="hdrlnk"><span id="titletextonly">BrandNewUnfurnishedStudio-VeryNiceRoofTopReadySept1st-HayesValleyNice!</span></a> </span> <span class="l2"> <span class="price">$2995</span> <span class="pnr"> <small> (hayes valley)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5713668119">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5708524570"> <a href="/sfc/apa/5708524570.html" class="i gallery" data-ids="1:00B0B_bH9BPe1ZZTO,1:00v0v_5IjNG2eCsfn,1:00T0T_fTIX5ym3ow9,1:00i0i_1m0JS3c5qwT,1:00V0V_76aAvmETia4,1:00G0G_446yOSPzZ2S,1:00e0e_34eJ3vERwyw,1:00F0F_lDPSuLSRMZA"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:36" title="Thu 18 Aug 10:36:59 AM">Aug 18</time> <a href="/sfc/apa/5708524570.html" data-id="5708524570" class="hdrlnk"><span id="titletextonly">1Bed-$2600ReadyNow8.6.16-NiceRentNoPets</span></a> </span> <span class="l2"> <span class="price">$2600</span> <span class="housing">/ 1br - 600ft<sup>2</sup> - </span> <span class="pnr"> <small> (inner sunset / UCSF)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5708524570">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5704171152" data-repost-of="5659988652"> <a href="/sfc/apa/5704171152.html" class="i gallery" data-ids="1:00P0P_b6XidXVr9Z8,1:00e0e_1hD03RDRiBU,1:00l0l_embMtUc09vb,1:01111_714iymsnD7Q,1:00O0O_lK8cxFz2xr9,1:00F0F_gAObOYlKdj9,1:00x0x_57ooDJk817d,1:00s0s_iNSPzGWz4KP,1:00F0F_lDPSuLSRMZA,1:00O0O_2oaNhKcixyO,1:00505_2vUbCdEjfxE,1:00n0n_bRQoblb9ZW3,1:00G0G_bFkhQHGhEer,1:00o0o_4g4sxiBcP58,1:00Q0Q_815EIlY9c7n,1:00p0p_lQ1ZZjYmxqd,1:00k0k_4oyABs6BnuU,1:00h0h_376xrsHEvMw,1:00v0v_ji07L8uAJME,1:00z0z_4K7H53pyss0,1:00000_fxqB3PkXH0P,1:00v0v_2NoEWfcxIWa,1:00W0W_3SCzga0Z9n3,1:00S0S_fJCcG1Mm0nJ"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:36" title="Thu 18 Aug 10:36:54 AM">Aug 18</time> <a href="/sfc/apa/5704171152.html" data-id="5704171152" class="hdrlnk"><span id="titletextonly">ReadyOct15,2016-BrandNew2Bed2bathViews1ParkPetYesTheRockwellCondos</span></a> </span> <span class="l2"> <span class="price">$6490</span> <span class="housing">/ 2br - 1149ft<sup>2</sup> - </span> <span class="pnr"> <small> (pacific heights)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5704171152">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5738765654"> <a href="/sfc/apa/5738765654.html" class="i gallery" data-ids="1:01515_cUPQ8wxgznx,1:00Y0Y_fveysNBw2Sj,1:00000_a9SOqzoUQrg,1:00K0K_kES2YdBvfkQ,1:00i0i_i9GjAY8zz8A,1:00O0O_buhf0vLBs3F,1:00F0F_1z1XQ61BnXK,1:00H0H_8ZMxYoqqOh4,1:00Q0Q_72X7paPs4Id,1:00E0E_jWHeh2gFnHW,1:00303_dCQZEXppSGI"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:36" title="Thu 18 Aug 10:36:53 AM">Aug 18</time> <a href="/sfc/apa/5738765654.html" data-id="5738765654" class="hdrlnk"><span id="titletextonly">Beautiful large Live/ Work loft with master suite, including PKY</span></a> </span> <span class="l2"> <span class="price">$5400</span> <span class="housing">/ 1br - 1750ft<sup>2</sup> - </span> <span class="pnr"> <small> (SOMA / south beach)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5738765654">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5713077964"> <a href="/sfc/apa/5713077964.html" class="i gallery" data-ids="1:00z0z_1EfN7vuVdrD,1:00m0m_iqxbNkRDyvl,1:00K0K_6j5EwXOWbHB,1:00P0P_7nUl7dyAmE5,1:00S0S_iG6Y2LrVP8k,1:00L0L_d2M8MHAZ2lA,1:00S0S_j6wGWQOsdxJ,1:00F0F_lDPSuLSRMZA,1:00G0G_446yOSPzZ2S,1:00B0B_lAUkQJizMmh,1:00A0A_b4GPBgra6cz,1:00n0n_1180bXWU3Lw,1:01313_l2qysSnHiKA,1:00W0W_iMizHhhv9dR,1:00w0w_1EaWOh3Iexg,1:01313_fE3Qk7Jnckz,1:00505_iAK0JBJ7ifQ,1:00e0e_34eJ3vERwyw,1:00f0f_9UVWTQQ6DYv"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:36" title="Thu 18 Aug 10:36:29 AM">Aug 18</time> <a href="/sfc/apa/5713077964.html" data-id="5713077964" class="hdrlnk"><span id="titletextonly">OpenHouseTodayAug14th-2pmto245pm-3Bed2BathGarageYardNiceNoeValleyReady</span></a> </span> <span class="l2"> <span class="price">$6995</span> <span class="housing">/ 3br - 1350ft<sup>2</sup> - </span> <span class="pnr"> <small> (noe valley)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5713077964">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5730472787"> <a href="/sfc/apa/5730472787.html" class="i gallery" data-ids="1:00j0j_52EDFh7Cqu3,1:00o0o_cm9iriYNS6x,1:00T0T_5vsLzq8gsFd,1:00P0P_5cHN31wD89I,1:01010_BUfhIFhgqV,1:00J0J_1XGiBkpDaKg,1:00l0l_89L2WKeLBu1,1:00C0C_dXjMmf1f9CL,1:00303_hzR7VYieSoj,1:00G0G_3S5oxDt0wG8,1:01414_4nq1AuXKRpf,1:00V0V_cmgRja4dfiW,1:00A0A_69M3lC6ySOn,1:00A0A_9GXuVRtyP71,1:00E0E_3HhM2rPquqs"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:36" title="Thu 18 Aug 10:36:24 AM">Aug 18</time> <a href="/sfc/apa/5730472787.html" data-id="5730472787" class="hdrlnk"><span id="titletextonly">ReadySept1stRenovatedHouseDiamond&MarktSt5Bed3BathYard</span></a> </span> <span class="l2"> <span class="price">$9995</span> <span class="housing">/ 5br - 2000ft<sup>2</sup> - </span> <span class="pnr"> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5730472787">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5734508554"> <a href="/sfc/apa/5734508554.html" class="i gallery" data-ids="1:00e0e_46aVi9GmdDD,1:00i0i_4OrfCwWklr9,1:00v0v_g1TMt6vJSNL,1:00P0P_27nq0aOCvVv,1:00T0T_dJHViTJoqd6,1:00H0H_42rwS4XJU3v,1:00X0X_6qjUM6cPLiv,1:00o0o_4hE5f2KzQKZ,1:00E0E_gyTybt9IR9h,1:01212_fyNK5C3aLX1,1:00X0X_bMvJNC32haD,1:00j0j_k6mMlB4ahFs,1:00G0G_6OuqR83VfF8,1:00000_jxvj4xGKWyt,1:00m0m_96cBHpMsc0H,1:00Z0Z_9OkyqxJRjVY,1:00L0L_cSRELpNrmR4,1:01212_2tCYf1c0DHk,1:00c0c_ePE9l0XaRd1,1:00u0u_k6ok1nLHOsx,1:00808_c2eKPHfX8mw,1:00y0y_5CdB8oZQKhG,1:00z0z_lyKOBg7X6qY,1:00m0m_7uP5khLrePs"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:36" title="Thu 18 Aug 10:36:23 AM">Aug 18</time> <a href="/sfc/apa/5734508554.html" data-id="5734508554" class="hdrlnk"><span id="titletextonly">Spectacular new home, minutes from downtown San Francisco...VIDEO TOUR</span></a> </span> <span class="l2"> <span class="price">$4395</span> <span class="housing">/ 3br - 1547ft<sup>2</sup> - </span> <span class="pnr"> <small> (ingleside / SFSU / CCSF)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5734508554">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5728018185" data-repost-of="5715144134"> <a href="/sfc/apa/5728018185.html" class="i gallery"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:35" title="Thu 18 Aug 10:35:47 AM">Aug 18</time> <a href="/sfc/apa/5728018185.html" data-id="5728018185" class="hdrlnk"><span id="titletextonly">2 bedrooms cozy upper flat</span></a> </span> <span class="l2"> <span class="price">$4000</span> <span class="housing">/ 2br - </span> <span class="pnr"> <small> (inner richmond)</small> <span class="px"> <span class="p"> <span class="maptag" data-pid="5728018185">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5734004734" data-repost-of="5702590781"> <a href="/sfc/apa/5734004734.html" class="i gallery" data-ids="1:00a0a_g9PIx1ANlFw,1:00A0A_6J8HnHzMM5S,1:01616_hrNJfnZfsln,1:01111_5uzDUlEtTCg,1:00T0T_umkGBLiCMU,1:01414_71e2KKcFWXr,1:00i0i_1dPm1W4GAeC,1:00808_9CvH55X8v2D"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:32" title="Thu 18 Aug 10:32:39 AM">Aug 18</time> <a href="/sfc/apa/5734004734.html" data-id="5734004734" class="hdrlnk"><span id="titletextonly">50 Lupine: Spacious 1-BR w/ updated kitchen and bath</span></a> </span> <span class="l2"> <span class="price">$2495</span> <span class="housing">/ 1br - </span> <span class="pnr"> <small> (laurel hts / presidio)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5734004734">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5733690369" data-repost-of="4564362598"> <a href="/sfc/apa/5733690369.html" class="i gallery" data-ids="1:00e0e_gq6igSS4tnS,1:00i0i_73zNW0c7wAU,1:01515_fvIdIJKiolJ,1:00y0y_7FOsEDftFgp,1:00W0W_c4WW0rHkg93"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:32" title="Thu 18 Aug 10:32:23 AM">Aug 18</time> <a href="/sfc/apa/5733690369.html" data-id="5733690369" class="hdrlnk"><span id="titletextonly">Rent price has been drop down to $2600$Beautiful 2 Bedrooms.~Must See</span></a> </span> <span class="l2"> <span class="price">$2600</span> <span class="housing">/ 2br - </span> <span class="pnr"> <small> (ingleside / SFSU / CCSF)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5733690369">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5738755622" data-repost-of="5563158746"> <a href="/sfc/apa/5738755622.html" class="i gallery" data-ids="1:00s0s_1VYCXO0alBG,1:00I0I_dYpYWZwpcfG"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:31" title="Thu 18 Aug 10:31:39 AM">Aug 18</time> <a href="/sfc/apa/5738755622.html" data-id="5738755622" class="hdrlnk"><span id="titletextonly">OPEN *LOVELY 1BR *Hwd *Granite/DW*Quiet *Lndy *Nr Alamo Sq *Pkg Avail</span></a> </span> <span class="l2"> <span class="price">$2850</span> <span class="housing">/ 1br - 600ft<sup>2</sup> - </span> <span class="pnr"> <small> (alamo square / nopa)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5738755622">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5738754215"> <a href="/sfc/apa/5738754215.html" class="i gallery" data-ids="1:00303_kc9OU3t69BL,1:00h0h_dpZ6veJ3kA9"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:30" title="Thu 18 Aug 10:30:55 AM">Aug 18</time> <a href="/sfc/apa/5738754215.html" data-id="5738754215" class="hdrlnk"><span id="titletextonly">Open House (Studio) Today, Thu., 8/18, 6pm - 6:30pm, 138 Hyde St.</span></a> </span> <span class="l2"> <span class="price">$1650</span> <span class="pnr"> <small> (tenderloin)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5738754215">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5738753706"> <a href="/sfc/apa/5738753706.html" class="i gallery" data-ids="1:00h0h_6UfQipogr9F,1:00000_i7EaZlpBMrV,1:00A0A_jb6Q2tjFJkW,1:00Y0Y_bNOKKzce7cq,1:00V0V_626TYMjrgOR,1:00101_dKcajbJNp8G,1:00606_9HcwaBCUo38,1:00d0d_e5JkbYFum5j"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:30" title="Thu 18 Aug 10:30:40 AM">Aug 18</time> <a href="/sfc/apa/5738753706.html" data-id="5738753706" class="hdrlnk"><span id="titletextonly">Beautiful 4.5br house for rent</span></a> </span> <span class="l2"> <span class="price">$6500</span> <span class="housing">/ 5br - </span> <span class="pnr"> <small> (twin peaks / diamond hts)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5738753706">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5738719450" data-repost-of="5644750200"> <a href="/sfc/apa/5738719450.html" class="i gallery" data-ids="1:00f0f_5YWnCfvtAnV,1:01414_lAco63OqOnU,1:00C0C_gsvvZcYwXSd"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:29" title="Thu 18 Aug 10:29:48 AM">Aug 18</time> <a href="/sfc/apa/5738719450.html" data-id="5738719450" class="hdrlnk"><span id="titletextonly">Bright Remodeled Cozy One Bedroom By Central Richmond</span></a> </span> <span class="l2"> <span class="price">$2599</span> <span class="pnr"> <small> (inner richmond)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5738719450">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5738751746"> <a href="/sfc/apa/5738751746.html" class="i gallery" data-ids="1:01616_d9TOdfYPZaw,1:00303_bV9JTooVSYZ,1:01717_1A3qw7z9hf4,1:00h0h_3bpJaDMawMY,1:00q0q_2yLv2hjDdEQ,1:00808_jD4uHShoeIr,1:00H0H_jiIeJGiBjzi,1:00y0y_jhaNDmGAU7z,1:00q0q_1HIDcOf0Mfo"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:29" title="Thu 18 Aug 10:29:43 AM">Aug 18</time> <a href="/sfc/apa/5738751746.html" data-id="5738751746" class="hdrlnk"><span id="titletextonly">Bright Jr 1x1 with balcony!</span></a> </span> <span class="l2"> <span class="price">$3674</span> <span class="housing">/ 1br - 650ft<sup>2</sup> - </span> <span class="pnr"> <small> (hayes valley)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5738751746">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5720992906"> <a href="/sfc/apa/5720992906.html" class="i gallery" data-ids="1:00F0F_8O8K7G0HvOa,1:00O0O_6OGsqqj44sz,1:00b0b_dapXCX0LqX1,1:00h0h_iVdT15LBdZT,1:00k0k_9uWlKnB77zY,1:00w0w_2dzWagIEVAG"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:28" title="Thu 18 Aug 10:28:38 AM">Aug 18</time> <a href="/sfc/apa/5720992906.html" data-id="5720992906" class="hdrlnk"><span id="titletextonly">Broderick @ Filbert..cottage like unit...</span></a> </span> <span class="l2"> <span class="price">$3500</span> <span class="housing">/ 1br - </span> <span class="pnr"> <small> (marina / cow hollow)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5720992906">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5738747378"> <a href="/sfc/apa/5738747378.html" class="i gallery" data-ids="1:00q0q_6q8mzCcLJ4X"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:27" title="Thu 18 Aug 10:27:20 AM">Aug 18</time> <a href="/sfc/apa/5738747378.html" data-id="5738747378" class="hdrlnk"><span id="titletextonly">East Bay Views, Wood Flooring, Renovated &amp; Great Layout!</span></a> </span> <span class="l2"> <span class="price">$3750</span> <span class="housing">/ 2br - 900ft<sup>2</sup> - </span> <span class="pnr"> <small> (castro / upper market)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5738747378">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5721699661"> <a href="/sfc/apa/5721699661.html" class="i gallery" data-ids="1:00Y0Y_4cB9BrrDrCQ,1:00p0p_drCRZQr9378,1:00c0c_dEfdHPrnS59,1:00X0X_cM8eTrJdKYL,1:00f0f_453Dy2KKaLk,1:00808_kSxGX3z6lsK,1:00g0g_8K09HTDvi0o,1:00E0E_3sFR47FIABr,1:00s0s_lwlFfvfeOBS,1:00q0q_kl0zlBHUYLG,1:00x0x_1VOzZsIET02,1:00707_csjVOLhNPF8,1:00I0I_5x8RukxlzZg,1:00K0K_cDcPzMARl9W,1:00U0U_1D4zO03dTxu,1:00x0x_2T4zvQWye6z,1:00303_IGnALUgXER,1:00w0w_hnnDdDRKs6x,1:00606_hcVfrU6IOeu,1:00r0r_hvVZ3ccGwY1,1:00K0K_8eqizjWJD7r,1:01111_jZIiMISyQUi,1:00w0w_hnnDdDRKs6x"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:26" title="Thu 18 Aug 10:26:16 AM">Aug 18</time> <a href="/sfc/apa/5721699661.html" data-id="5721699661" class="hdrlnk"><span id="titletextonly">Renovated Sunset / Parkside house</span></a> </span> <span class="l2"> <span class="price">$5900</span> <span class="housing">/ 3br - 2200ft<sup>2</sup> - </span> <span class="pnr"> <small> (sunset / parkside)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5721699661">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5729565660" data-repost-of="5615968388"> <a href="/sfc/apa/5729565660.html" class="i gallery" data-ids="1:01010_b0ABjk7poNq,1:00G0G_kfdfpYa1tLp,1:00808_flwY9gxBKd8,1:00p0p_e7rcBglsQhG,1:01616_5OY6R0Ktlw3,1:00m0m_NIXDUF0nS7,1:00000_j2XYo4OaoCb,1:01111_beMNpm4v0E8,1:01010_3V5uC1aM4cd,1:00V0V_hEnJRs3H1Fu,1:01515_c23pAE6oEuS,1:00O0O_cgmshn5kYgD,1:00M0M_gvx8Vo5BglZ,1:00n0n_80VAEFz2o09,1:00A0A_b2U0p9Ifi7p,1:00202_j8VUDju8gpb,1:00g0g_g1a47yYQnGe,1:00x0x_fsGlVUZOUBf,1:00Q0Q_iObJ17EmCQp,1:00l0l_5iFPNYa3xGl"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:22" title="Thu 18 Aug 10:22:10 AM">Aug 18</time> <a href="/sfc/apa/5729565660.html" data-id="5729565660" class="hdrlnk"><span id="titletextonly">574 3rd St. - Hardwood Floor SOMA Studio Available NOW!</span></a> </span> <span class="l2"> <span class="price">$2150</span> <span class="housing">/ 290ft<sup>2</sup> - </span> <span class="pnr"> <small> (SOMA / south beach)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5729565660">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5738691003" data-repost-of="5537280376"> <a href="/sfc/apa/5738691003.html" class="i gallery" data-ids="1:00707_5wgv49aEOJO,1:00b0b_fCsxsIFVa2l,1:00t0t_51d8MDFo5hW,1:00U0U_dD0EqCKHG9c,1:00Q0Q_fwvun2I4HgA,1:00505_jecL2GivPpB,1:00x0x_jQoBPspdeOh"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:20" title="Thu 18 Aug 10:20:16 AM">Aug 18</time> <a href="/sfc/apa/5738691003.html" data-id="5738691003" class="hdrlnk"><span id="titletextonly">Lovely 3 Bedroom, 2 Bath Flat With Jaw Dropping Views</span></a> </span> <span class="l2"> <span class="price">$5099</span> <span class="housing">/ 3br - </span> <span class="pnr"> <small> (noe valley)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5738691003">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5724893302"> <a href="/sfc/apa/5724893302.html" class="i gallery" data-ids="1:00T0T_1tvlYYxMUaF,1:00C0C_8mnwOltzQ4u,1:00w0w_8xaDdPRcBek,1:00w0w_bSCDPQCrFic,1:00Q0Q_9EhhhySN9sC,1:01717_47sJhUMXtsA,1:00A0A_ltgtptmM9iw,1:00n0n_4BAeVW6BuBZ,1:00000_8kaRSgIoxuk,1:00V0V_fu5lp77uhcb,1:00r0r_q8useAqbti,1:00U0U_hlGpdYRn1AF,1:00404_lXvoNagnnBf,1:00V0V_2uyMqJPc0aD,1:00d0d_mg9uUwTvaP"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:20" title="Thu 18 Aug 10:20:04 AM">Aug 18</time> <a href="/sfc/apa/5724893302.html" data-id="5724893302" class="hdrlnk"><span id="titletextonly">2 Blocks Away from Wholefoods - BIG DOGS Welcome!</span></a> </span> <span class="l2"> <span class="price">$4595</span> <span class="housing">/ 2br - 1300ft<sup>2</sup> - </span> <span class="pnr"> <small> (pacific heights)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5724893302">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5738708214"> <a href="/sfc/apa/5738708214.html" class="i gallery" data-ids="1:00909_dRI38K2Tr46,1:00p0p_5vHSzNIZvp7,1:00S0S_6e1cTzuqQTX,1:00V0V_boczSHz4vu6,1:00O0O_dps1SPUYqu2,1:00K0K_l1JDu34TYXc,1:00t0t_ajUQ8xDjPH5,1:00p0p_cJzaqPi6Tew"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:19" title="Thu 18 Aug 10:19:05 AM">Aug 18</time> <a href="/sfc/apa/5738708214.html" data-id="5738708214" class="hdrlnk"><span id="titletextonly">Apartment Includes parking!</span></a> </span> <span class="l2"> <span class="price">$3075</span> <span class="housing">/ 1br - 690ft<sup>2</sup> - </span> <span class="pnr"> <small> (pacific heights)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5738708214">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5738716888" data-repost-of="5011052579"> <a href="/sfc/apa/5738716888.html" class="i gallery" data-ids="1:00n0n_73FW3lFnubK,1:00Y0Y_jGWxlqNgYPi,1:00G0G_kQ9asEntMWN,1:00p0p_kjnm8lyGuNf,1:00m0m_2QohWGmykjK,1:00a0a_cy53ylAwTr2"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:18" title="Thu 18 Aug 10:18:30 AM">Aug 18</time> <a href="/sfc/apa/5738716888.html" data-id="5738716888" class="hdrlnk"><span id="titletextonly">Cute &amp; Cozy Apartment Next To Golden Gate Park By Central Richmond</span></a> </span> <span class="l2"> <span class="price">$2299</span> <span class="housing">/ 1br - </span> <span class="pnr"> <small> (inner richmond)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5738716888">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5728137881"> <a href="/sfc/apa/5728137881.html" class="i gallery" data-ids="1:00c0c_fwGiEunbeqZ,1:01414_hwSZZ8zTP6S,1:00X0X_1dohQKwXFwU,1:00h0h_i3FzSOBUNpM,1:00D0D_lqXqALGajfl,1:00101_dIlD9yHOotu,1:00f0f_1zcerS5fXQe,1:00J0J_eIlRigJFQxa,1:00o0o_6Ci0ZmrU9rh,1:00m0m_h5vgmM1OCRX,1:00a0a_khWNTeMRUGg,1:00J0J_fTMq9cDpjXn,1:00D0D_4R1iBO1xZwb,1:00l0l_51XXiTFo73R,1:00K0K_bkYugtbXBmx,1:00h0h_6UA53OrkzlO"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:18" title="Thu 18 Aug 10:18:02 AM">Aug 18</time> <a href="/sfc/apa/5728137881.html" data-id="5728137881" class="hdrlnk"><span id="titletextonly">Great Location! Unit Includes Water, Garbage &amp; Balcony</span></a> </span> <span class="l2"> <span class="price">$4550</span> <span class="housing">/ 2br - 1500ft<sup>2</sup> - </span> <span class="pnr"> <small> (laurel hts / presidio)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5728137881">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5709770895" data-repost-of="5664494918"> <a href="/sfc/apa/5709770895.html" class="i gallery" data-ids="1:00H0H_xGgBxHAGZB,1:00j0j_fOMjaXXhDk4,1:00o0o_l9AmaAqCGaX,1:00k0k_bW8NoojnvUp,1:00J0J_gWqMox0sznM,1:00w0w_9aeGagyS6rB,1:00P0P_lfOuSyxrSdv,1:00O0O_lw2ZVFU75F6,1:00I0I_e7hy3mFNWBm"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:17" title="Thu 18 Aug 10:17:41 AM">Aug 18</time> <a href="/sfc/apa/5709770895.html" data-id="5709770895" class="hdrlnk"><span id="titletextonly">Great Location Across from Lafayette Park!</span></a> </span> <span class="l2"> <span class="price">$5500</span> <span class="housing">/ 2br - 1400ft<sup>2</sup> - </span> <span class="pnr"> <small> (pacific heights)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5709770895">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5738681335" data-repost-of="5713122346"> <a href="/sfc/apa/5738681335.html" class="i gallery" data-ids="1:00F0F_ctWuLCcDpzj,1:00t0t_hl53JVTPYmQ,1:00k0k_3d7Afk2HOhl,1:00101_628tNj84iak,1:00f0f_6FJq2xdQBNT,1:00101_iap1WRVwPoi,1:00d0d_cGLESxBJPJW,1:01313_7S81h0uJav,1:01212_9cg1MxiNPlG"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:17" title="Thu 18 Aug 10:17:12 AM">Aug 18</time> <a href="/sfc/apa/5738681335.html" data-id="5738681335" class="hdrlnk"><span id="titletextonly">Unique Corner Unit, a rare opportunity!</span></a> </span> <span class="l2"> <span class="price">$3299</span> <span class="housing">/ 1br - </span> <span class="pnr"> <small> (marina / cow hollow)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5738681335">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5738712272"> <a href="/sfc/apa/5738712272.html" class="i gallery" data-ids="1:00n0n_4XO5ifjN9fq,1:00e0e_Zzgx8EUrxg,1:00y0y_22VrdpNaTRV,1:00S0S_hNQYlx7CnoI,1:00Q0Q_hyeC02kyCVV,1:00x0x_iuZEBVvj4uF,1:00y0y_brgbxRHz9D9"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:17" title="Thu 18 Aug 10:17:12 AM">Aug 18</time> <a href="/sfc/apa/5738712272.html" data-id="5738712272" class="hdrlnk"><span id="titletextonly">2x1 with Stunning Bay and Bay Bridge View!</span></a> </span> <span class="l2"> <span class="price">$4405</span> <span class="housing">/ 2br - </span> <span class="pnr"> <small> (financial district)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5738712272">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5735343514"> <a href="/sfc/apa/5735343514.html" class="i gallery"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:17" title="Thu 18 Aug 10:17:02 AM">Aug 18</time> <a href="/sfc/apa/5735343514.html" data-id="5735343514" class="hdrlnk"><span id="titletextonly">Inlaw Furnished Studio, Walk to SFSU-CCSF</span></a> </span> <span class="l2"> <span class="price">$1700</span> <span class="housing">/ 1br - 280ft<sup>2</sup> - </span> <span class="pnr"> <small> (ingleside / SFSU / CCSF)</small> <span class="px"> <span class="p"> <span class="maptag" data-pid="5735343514">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5733992219" data-repost-of="5646560568"> <a href="/sfc/apa/5733992219.html" class="i gallery" data-ids="1:00N0N_iuYXBgyh0Cf,1:00O0O_75KWeeZV7MJ,1:01717_fGlL7UfnW24,1:01212_jc4lIbTmWSr,1:00I0I_3wWVGULIZfj,1:00Z0Z_bBDAZVYisO"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:16" title="Thu 18 Aug 10:16:52 AM">Aug 18</time> <a href="/sfc/apa/5733992219.html" data-id="5733992219" class="hdrlnk"><span id="titletextonly">Newly Built Luxury Apartment | Fully Furnished | ReLISTO</span></a> </span> <span class="l2"> <span class="price">$3995</span> <span class="housing">/ 1br - 600ft<sup>2</sup> - </span> <span class="pnr"> <small> (pacific heights)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5733992219">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5738724052"> <a href="/sfc/apa/5738724052.html" class="i gallery" data-ids="1:00m0m_7NAZkY14p5X,1:01515_ar0zQfLt2nd,1:00z0z_Tsvcl3ziqB,1:00w0w_dDLDf4I91tB,1:00X0X_iTx1oUZKCls,1:00O0O_3mmm0W74wNB,1:00X0X_f137Zkk7DMW,1:00X0X_bV5CTrJfmHh,1:00h0h_gDhiZWmDTMf,1:00808_6dkfdsM9Nw6,1:00606_6m5lnNdyzhB,1:00C0C_g8D03ivKrwS,1:00T0T_asl07T8vWfX,1:00Q0Q_2rYUtCCADNI,1:01212_7P3edB8rspw,1:00U0U_b8hbPlSCPYr"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:15" title="Thu 18 Aug 10:15:11 AM">Aug 18</time> <a href="/sfc/apa/5738724052.html" data-id="5738724052" class="hdrlnk"><span id="titletextonly">1 Bdrm Loft, South Beach, Close AT&T &amp; Muni, Parking, Fitness, Bright!</span></a> </span> <span class="l2"> <span class="price">$3350</span> <span class="housing">/ 1br - 775ft<sup>2</sup> - </span> <span class="pnr"> <small> (SOMA / south beach)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5738724052">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5709767692" data-repost-of="5606003654"> <a href="/sfc/apa/5709767692.html" class="i gallery" data-ids="1:00C0C_bUbkwiNPHww,1:00q0q_e4Y2V3fuydN,1:00F0F_7hmZlsAzOBO,1:00k0k_bW8NoojnvUp,1:00o0o_l9AmaAqCGaX,1:00J0J_gWqMox0sznM,1:00z0z_knPszm0KnOF,1:00Z0Z_c54p8RONSpj,1:00T0T_kEBq95gOf53,1:00J0J_dZw7uaek9vb,1:00q0q_7x6XGsUi5E3,1:00F0F_fbHkS9Lkd68,1:00404_5ddlvwZXG18"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:14" title="Thu 18 Aug 10:14:53 AM">Aug 18</time> <a href="/sfc/apa/5709767692.html" data-id="5709767692" class="hdrlnk"><span id="titletextonly">Great Location with Gorgeous Golden Gate &amp; Marina Views!</span></a> </span> <span class="l2"> <span class="price">$5200</span> <span class="housing">/ 1br - 1000ft<sup>2</sup> - </span> <span class="pnr"> <small> (pacific heights)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5709767692">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5738688107" data-repost-of="5726480731"> <a href="/sfc/apa/5738688107.html" class="i gallery" data-ids="1:00X0X_gdrwWdGwtte,1:00Y0Y_iivMhvxlS5l,1:00S0S_iqtjqtLMjKM,1:00r0r_b20dNVSWGu9,1:00E0E_4HGv5ZHv0Dm,1:00q0q_3wzFuCDNz4m,1:00v0v_2xUa0WamwY6,1:00L0L_7ICDviXBfEd,1:00X0X_iPfITVVsSCQ,1:00o0o_fWbzqLXaJgN"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:14" title="Thu 18 Aug 10:14:43 AM">Aug 18</time> <a href="/sfc/apa/5738688107.html" data-id="5738688107" class="hdrlnk"><span id="titletextonly">- 1BR/1BA ground flr (11 Broderick St #5)</span></a> </span> <span class="l2"> <span class="price">$2795</span> <span class="housing">/ 1br - </span> <span class="pnr"> <small> (cole valley / ashbury hts)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5738688107">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5733691954"> <a href="/sfc/apa/5733691954.html" class="i gallery" data-ids="1:01111_ey0AWyT5tqf,1:00202_7QFKEYmb1k9,1:01212_lOyWMFqEFVX,1:00P0P_eecdbdYzqln,1:00606_ai189tYrD0P,1:01616_akhrzpTXLka,1:01111_bLhoSMVeg7r"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:14" title="Thu 18 Aug 10:14:40 AM">Aug 18</time> <a href="/sfc/apa/5733691954.html" data-id="5733691954" class="hdrlnk"><span id="titletextonly">1 Bed/Bath apt w/ parking in Lower Pac Heights/Laurel Village</span></a> </span> <span class="l2"> <span class="price">$3100</span> <span class="housing">/ 1br - </span> <span class="pnr"> <small> (lower pac hts)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5733691954">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5738706677"> <a href="/sfc/apa/5738706677.html" class="i gallery" data-ids="1:01212_hK92vHhh3fC,1:00R0R_3RzSZvCFrso,1:00Q0Q_iM7s2yxzMng,1:00M0M_fMtbr51iC2u,1:00j0j_d6H4sfO2jS3"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:14" title="Thu 18 Aug 10:14:18 AM">Aug 18</time> <a href="/sfc/apa/5738706677.html" data-id="5738706677" class="hdrlnk"><span id="titletextonly">1 Bedroom, 1.5 Bath Loft Style Apartment in a Brand New Building!</span></a> </span> <span class="l2"> <span class="price">$4378</span> <span class="housing">/ 1br - </span> <span class="pnr"> <small> (SOMA / south beach)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5738706677">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5738722058" data-repost-of="5073106269"> <a href="/sfc/apa/5738722058.html" class="i gallery" data-ids="1:00303_TWBZLzBerh,1:00101_931BSFZgmpK,1:00b0b_c1afYDhmFzQ,1:01414_eGdeELse40m,1:00U0U_4DLfsfbSRRg,1:00w0w_kTV7BQ9iDRr,1:00n0n_brXNnVM5nki,1:00n0n_iXc7UxQQRyZ,1:00101_36tit6nGpXR,1:00L0L_dfZvt2EPr9e,1:00909_fUWRDRAL64N,1:00T0T_ljA0QctWNje,1:00J0J_2Vicw9Vpcwv"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:14" title="Thu 18 Aug 10:14:10 AM">Aug 18</time> <a href="/sfc/apa/5738722058.html" data-id="5738722058" class="hdrlnk"><span id="titletextonly">Awesome Studio In-Law in a Victorian Mansion (Move in Aug 30)</span></a> </span> <span class="l2"> <span class="price">$2500</span> <span class="housing">/ 300ft<sup>2</sup> - </span> <span class="pnr"> <small> (lower haight)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5738722058">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5733991181" data-repost-of="5684462951"> <a href="/sfc/apa/5733991181.html" class="i gallery" data-ids="1:00404_3VWm8IKw1NI,1:00v0v_lTGEcxJpS9y,1:01414_8aSDI07mgrC,1:00K0K_fYkn8zNos6G,1:00S0S_320tnMjIPGx,1:00A0A_8vIR93rfbdz,1:00S0S_a4Y1fTvGsVI,1:00j0j_2yPm683rjyn,1:00r0r_6G39t82UHtA,1:01010_j4hpFVsNktw,1:00t0t_4RtffamflDK,1:00W0W_hG2xOcNe3vf,1:00Y0Y_kZzkYbVUfrE,1:00303_laKSzvASV3m,1:00a0a_hJMFWY6BMsx"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:14" title="Thu 18 Aug 10:14:06 AM">Aug 18</time> <a href="/sfc/apa/5733991181.html" data-id="5733991181" class="hdrlnk"><span id="titletextonly">5 Star | Top Floor | One Hawthorne | Large Open-Concept | ReLISTO</span></a> </span> <span class="l2"> <span class="price">$6995</span> <span class="housing">/ 2br - 1581ft<sup>2</sup> - </span> <span class="pnr"> <small> (financial district)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5733991181">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p><p class="row" data-pid="5738695443"> <a href="/sfc/apa/5738695443.html" class="i gallery" data-ids="1:00C0C_cHvoM6Bqxhn,1:00g0g_bfitQcYVZsL,1:00Q0Q_7szaFkxHJMt,1:01717_7K9UTnM2GZw,1:00P0P_7QnPXBHhxD3,1:00N0N_iVIb4AsflE5,1:00L0L_1IueJH4lY4h,1:00Q0Q_dt3ldnRVDVt,1:00W0W_2cTd1M2EybU,1:00l0l_HsgSLK0T87"></a> <span class="txt"> <span class="pl"> <span class="icon icon-star" role="button"> <span class="screen-reader-text"><? __("favorite this post") ?></span> </span> <time datetime="2016-08-18 10:13" title="Thu 18 Aug 10:13:33 AM">Aug 18</time> <a href="/sfc/apa/5738695443.html" data-id="5738695443" class="hdrlnk"><span id="titletextonly">Unique Layout, Modern Design, Glass Wall, Two Balconies!</span></a> </span> <span class="l2"> <span class="price">$3795</span> <span class="housing">/ 1br - 607ft<sup>2</sup> - </span> <span class="pnr"> <small> (SOMA / south beach)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5738695443">map</span></span></span> </span> </span> <span class="js-only banish-unbanish"> <span class="banish"><span class="icon icon-trash" role="button"></span><span class="screen-reader-text">hide this posting</span></span> <span class="unbanish"><span class="icon icon-trash red" role="button"></span> restore this posting</span></span> </span> </p>
+                    
+                    
+                </div>
+                <div id="mapcontainer" data-arealat="37.500000" data-arealon="-122.250000">
+    <div id="noresult-overlay"></div>
+    <div id="noresult-text">
+        <span class="message">No mappable items found</span>
+    </div>
+    <div id="map" class="loading"><div class="closeFS">close fullscreen</div></div>
+</div>
+                
+            </div>
+
+            <div class="search-legend bottom">
+                <div class="search-view">
+                    <span class="buttongroup"><a class="backtotop button" href="#pagecontainer">^ back to top</a></span>
+                </div>
+                <div class="search-sort">
+                    <span class="buttongroup"><a class="backtotop button" href="#pagecontainer">^ back to top</a></span>
+                </div>
+                <div class="paginator buttongroup  firstpage"><span class="resulttotal"><span class="for-map">displaying <span class="displaycountShow">...</span> postings</span></span><span class="buttons"><a href="/search/sfc/apa" class="button first" title="first page">&lt;&lt;</a><span class="button first" title="first page">&lt;&lt;</span><a href="/search/sfc/apa" class="button prev" title="previous page">&lt; prev</a><span class="button prev" title="previous page">&lt; prev</span><span class="button pagenum"><span class="range"><span class="rangeFrom">1</span> to <span class="rangeTo">100</span></span> of <span class="totalcount">2500</span></span><a href="/search/sfc/apa?s=100" class="button next" title="next page"> next &gt; </a><span class="button next" title="next page"> next &gt; </span></span></div>
+            </div>
+
+            <section class="blurbs">
+                
+            </section>
+
+            <div id="floater">
+                <img class="loading" src="//www.craigslist.org/images/animated-spinny.gif" alt="">
+                <img class="payload" src="//www.craigslist.org/images/animated-spinny.gif" alt="">
+            </div>
+            <template id="gallerycarousel">
+                <div class="slider-info"></div><div class="slider-back arrow">&lt;</div><div class="slider-forward arrow">&gt;</div>
+            </template>
+        </form>
+
+        
+
+        
+
+        <div class="slidemessage">
+    <span class="fave">
+        <span class="star"></span>
+        favorited
+    </span>
+    <span class="unfave">
+        <span class="star"></span>
+        no longer favorited
+    </span>
+    <span class="hide">
+        <span class="trash"></span>
+        hidden
+    </span>
+    <span class="unhide">
+        <span class="trash"></span>
+        no longer hidden
+    </span>
+</div>
+
+        <footer>
+    
+            <span class="rss">
+                <a class="l" href="https://sfbay.craigslist.org/search/sfc/apa?format=rss">RSS</a>
+                <a href="//www.craigslist.org/about/rss">(?)</a><br>
+            </span>
+            
+    <ul class="clfooter">
+        <li>&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span></li>
+        <li><a href="//www.craigslist.org/about/help/">help</a></li>
+        <li><a href="//www.craigslist.org/about/scams">safety</a></li>
+        <li class="desktop"><a href="//www.craigslist.org/about/privacy.policy">privacy</a></li>
+        <li class="desktop"><a href="https://forums.craigslist.org/?forumID=8">feedback</a></li>
+        <li class="desktop"><a href="//www.craigslist.org/about/craigslist_is_hiring">cl jobs</a></li>
+        <li><a href="//www.craigslist.org/about/terms.of.use.en">terms</a></li>
+        <li><a href="//www.craigslist.org/about/">about</a></li>
+        <li class="fsel desktop linklike" data-mode="mobile">mobile</li>
+        <li class="fsel mobile linklike" data-mode="regular">desktop</li>
+    </ul>
+</footer>
+    </section>
+
+    <script src="//www.craigslist.org/js/general-concat.min.js?v=a34ded12b261f9807fc3db5e66fb41c6" type="text/javascript" ></script>
+
+    <script type="text/javascript"><!--
+        var iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        iframe.src = '//www.' + CL.url.baseDomain + '/static/localstorage.html?v=51a29e41f8e978141e4085ed4a77d170';
+        document.body.insertBefore(iframe, null);
+    --></script>
+    <script type="text/template" id="clustertemplate">
+    <li class="posting {visited}" data-pid="{PostingID}">
+        <img src="{ImageThumb}">
+        <div class="housing_bubble_banner">
+            <span class="{hasPrice}price">{currencySymbol}{Ask}</span>
+            <span class="bedrooms">{BedroomsContent}</span>
+            <span class="postingtitle"><a>{PostingTitle}</a></span>
+            <span class="js-only map-banish-unbanish" data-pid="{PostingID}">
+                <span class="banish">
+                    <span class="icon icon-trash" role="button"></span>
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+                <span class="unbanish">
+                    <span class="icon icon-trash red" role="button"></span>
+                    unhide
+                </span>
+            </span>
+        </div>
+    </li>
+</script>
+<script type="text/template" id="postingtemplate">
+    <div class="viewcontainer pics loading">
+        <div class="backtolist">
+            &laquo; back to posting list
+        </div>
+        <div class="title">
+            <span class="icon icon-star" data-pid="{PostingID}" role="button">
+                <span class="screen-reader-text">favorite this post</span>
+            </span>
+            <span class="postingtitle">
+                <a href="{PostingURL}" target="_blank">{PostingTitle}</a>
+            </span>
+            <div>
+                <span class="{hasPrice}price">{currencySymbol}{Ask}</span>
+                <span class="bedrooms">{BedroomsContent}</span>
+                <span class="js-only map-banish-unbanish" data-pid="{PostingID}">
+                    <span class="banish">
+                        <span class="icon icon-trash" role="button"></span>
+                        <span class="screen-reader-text">hide this posting</span>
+                    </span>
+                    <span class="unbanish">
+                        <span class="icon icon-trash red" role="button"></span>
+                        <span class="screen-reader-text">unhide</span>
+                        unhide
+                    </span>
+                </span>
+            </div>
+        </div>
+        <hr style="clear:both">
+        <div class="picscontainer gallery">
+            <span class="slider-back arrow">&lt;</span><span class="slider-info"></span><span class="slider-forward arrow">&gt;</span>
+            <div class="swipe">
+                <div class="swipe-wrap">
+                    <img class="loading" src="//www.craigslist.org/images/animated-spinny.gif" alt="">
+                </div>
+            </div>
+        </div>
+        <div class="infocontainer"></div>
+        <hr style="clear:both">
+        <time class="date timeago"  datetime="{isoPostedDate}">{humanPostedDate}</time>
+        <a class="viewpostinglink" href="{PostingURL}" target="_blank">view posting</a>
+        <div class="contenttoggle">
+            <a class="moreinfo">more info</a>
+            <a class="showpics">show images</a>
+        </div>
+    </div>
+</script>
+<script type="text/template" id="popuptemplate">
+    <div id="mapbubble" class="posting">
+        <ul id="clusterbubble"></ul>
+        <div id="postbubble"></div>
+    </div>
+</script>
+<script src="//www.craigslist.org/js/leaflet-concat.min.js?v=99342ca2e724a94a467ce3d92f15def4" type="text/javascript" ></script>
+
+    <script src="//www.craigslist.org/js/search-concat.min.js?v=56243635ecf4ee65f018516515215750" type="text/javascript" ></script>
+
+</body>
+</html>
