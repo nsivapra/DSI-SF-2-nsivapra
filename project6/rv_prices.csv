@@ -1,0 +1,19 @@
+city,state,mapVal,median,mean
+New York,New York,newyork,1050.0,9587.57471264
+Los Angeles,California,losangeles,16000.0,25084.5076923
+Chicago,Illinois,chicago,187.5,6064.26470588
+Houston,Texas,houston,14944.0,21121.75
+Philadelphia,Pennsylvania,philadelphia,3500.0,21229.9775281
+Phoenix,Arizona,phoenix,26230.0,28870.2234043
+San Antonio,Texas,sanantonio,21900.0,41771.8333333
+San Diego,California,sandiego,950.0,23755.835443
+Dallas,Texas,dallas,19995.0,24121.0
+Austin,Texas,austin,23967.0,33267.5384615
+Jacksonville,Florida,jacksonville,449.0,13693.9438202
+San Francisco,California,sfbay,18999.0,27928.1794872
+Indianapolis,Indiana,indianapolis,2000.0,7036.75
+Columbus,Ohio,columbus,762.5,8938.91489362
+Charlotte,North Carolina,charlotte,555.0,9190.51162791
+Detroit,Michigan,detroit,19999.0,22423.7311828
+El Paso,Texas,elpaso,16999.0,43304.1182796
+Seattle,Washington,seattle,26999.0,32008.8947368
