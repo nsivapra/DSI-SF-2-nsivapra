@@ -1,7 +1,9 @@
 # DSI-SF-2-nsivapra
 
 Portfolio Link: https://nsivapra.github.io/DSI-Capstone/
+
 Project 1: Python Basics
+
 Project 2: EDA
 Project 3: Linear Regression
 Project 4: Logistic Regression
